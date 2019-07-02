@@ -1,0 +1,531 @@
+,Player,Team,Age,Height,Weight,GP,Injury Status,MP,Pos
+0,Aaron Gordon,ORL,23.0,6.75,220.0,78.0,Injured,32.9,PF
+1,Aaron Holiday,IND,22.0,6.08,185.0,50.0,Not Injured,,
+2,Abdel Nader,OKC,25.0,6.5,225.0,61.0,Not Injured,10.9,SF
+3,Al Horford,BOS,33.0,6.83,245.0,68.0,Injured,31.6,C
+4,Al-Farouq Aminu,POR,28.0,6.75,220.0,81.0,Not Injured,30.0,PF
+5,Alan Williams,BKN,26.0,6.67,265.0,5.0,Injured,14.0,PF
+6,Alec Burks,SAC,27.0,6.5,214.0,64.0,Not Injured,16.5,SG
+7,Alex Abrines,OKC,25.0,6.5,200.0,31.0,Injured,15.1,SG
+8,Alex Caruso,LAL,25.0,6.42,186.0,25.0,Not Injured,15.2,PG
+9,Alex Len,ATL,26.0,7.08,250.0,77.0,Injured,20.2,C
+10,Alex Poythress,ATL,25.0,6.75,235.0,21.0,Not Injured,4.2,PF
+11,Alfonzo McKinnie,GSW,26.0,6.67,215.0,72.0,Not Injured,3.8,SF
+12,Alize Johnson,IND,23.0,6.75,212.0,14.0,Not Injured,,
+13,Allen Crabbe,BKN,27.0,6.5,212.0,43.0,Injured,29.3,SG
+14,Allonzo Trier,NYK,23.0,6.42,200.0,64.0,Not Injured,,
+15,Amile Jefferson,ORL,26.0,6.75,222.0,12.0,Not Injured,,
+16,Amir Johnson,PHI,32.0,6.75,240.0,51.0,Injured,15.8,C
+17,Andre Drummond,DET,25.0,6.92,279.0,79.0,Injured,33.7,C
+18,Andre Iguodala,GSW,35.0,6.5,215.0,68.0,Injured,25.3,SF
+19,Andre Ingram,LAL,33.0,6.25,190.0,4.0,Not Injured,32.0,SG
+20,Andrew Bogut,GSW,34.0,7.0,260.0,11.0,Injured,9.0,C
+21,Andrew Harrison,NOP,24.0,6.5,213.0,17.0,Injured,23.7,PG
+22,Andrew Wiggins,MIN,24.0,6.67,194.0,73.0,Not Injured,36.3,SF
+23,Anfernee Simons,POR,20.0,6.33,185.0,20.0,Not Injured,,
+24,Angel Delgado,LAC,24.0,6.83,245.0,2.0,Not Injured,,
+25,Ante Zizic,CLE,22.0,6.92,254.0,59.0,Not Injured,6.7,C
+26,Anthony Davis,NOP,26.0,6.83,253.0,56.0,Injured,36.4,PF
+27,Anthony Tolliver,MIN,34.0,6.67,250.0,65.0,Not Injured,22.2,PF
+28,Antonio Blakeney,CHI,22.0,6.33,192.0,57.0,Injured,16.5,SG
+29,Aron Baynes,BOS,32.0,6.83,260.0,51.0,Not Injured,18.3,C
+30,Austin Rivers,HOU,26.0,6.33,200.0,76.0,Injured,33.7,SG
+31,Avery Bradley,MEM,28.0,6.17,180.0,63.0,Injured,31.2,SG
+32,BJ Johnson,SAC,23.0,6.58,200.0,7.0,Not Injured,,
+33,Bam Adebayo,MIA,21.0,6.83,255.0,82.0,Injured,19.8,C
+34,Ben McLemore,SAC,26.0,6.42,201.0,19.0,Injured,19.5,SG
+35,Ben Simmons,PHI,22.0,6.83,230.0,79.0,Injured,33.7,PG
+36,Billy Garrett,NYK,24.0,6.5,215.0,4.0,Not Injured,,
+37,Bismack Biyombo,CHA,26.0,6.75,255.0,54.0,Not Injured,18.2,C
+38,Blake Griffin,DET,30.0,6.83,250.0,75.0,Injured,34.0,PF
+39,Boban Marjanovic,PHI,30.0,7.25,290.0,58.0,Not Injured,8.6,C
+40,Bobby Portis,WAS,24.0,6.92,250.0,50.0,Injured,22.5,PF
+41,Bogdan Bogdanovic,SAC,26.0,6.5,205.0,70.0,Injured,27.9,SG
+42,Bojan Bogdanovic,IND,30.0,6.67,216.0,81.0,Not Injured,30.8,SF
+43,Bonzie Colson,MIL,23.0,6.5,225.0,8.0,Not Injured,,
+44,Brad Wanamaker,BOS,29.0,6.33,210.0,36.0,Not Injured,,
+45,Bradley Beal,WAS,26.0,6.42,207.0,82.0,Not Injured,36.3,SG
+46,Brandon Goodwin,DEN,23.0,6.17,180.0,16.0,Not Injured,,
+47,Brandon Ingram,LAL,21.0,6.75,190.0,52.0,Injured,33.5,SF
+48,Brandon Knight,CLE,27.0,6.25,195.0,39.0,Injured,,
+49,Brandon Sampson,CHI,22.0,6.42,184.0,14.0,Not Injured,,
+50,Brook Lopez,MIL,31.0,7.0,270.0,81.0,Injured,23.4,C
+51,Bruce Brown,DET,22.0,6.42,202.0,74.0,Not Injured,,
+52,Bruno Caboclo,MEM,23.0,6.75,218.0,34.0,Not Injured,8.9,SF
+53,Bryn Forbes,SAS,25.0,6.25,190.0,82.0,Not Injured,19.0,SG
+54,Buddy Hield,SAC,26.0,6.33,214.0,82.0,Not Injured,25.3,SG
+55,C.J. Williams,MIN,29.0,6.42,226.0,15.0,Injured,18.6,SG
+56,CJ McCollum,POR,27.0,6.25,190.0,70.0,Not Injured,36.1,SG
+57,CJ Miles,MEM,32.0,6.5,220.0,53.0,Not Injured,,
+58,Caleb Swanigan,SAC,22.0,6.75,250.0,21.0,Not Injured,7.0,PF
+59,Cameron Payne,CLE,24.0,6.25,190.0,40.0,Injured,23.3,PG
+60,Cameron Reynolds,MIN,24.0,6.67,225.0,19.0,Not Injured,,
+61,Caris LeVert,BKN,24.0,6.58,204.0,40.0,Injured,26.3,SF
+62,Carmelo Anthony,HOU,35.0,6.67,240.0,10.0,Injured,32.1,PF
+63,Cedi Osman,CLE,24.0,6.67,215.0,76.0,Injured,11.0,SF
+64,Chandler Hutchison,CHI,23.0,6.58,197.0,44.0,Not Injured,,
+65,Chandler Parsons,MEM,30.0,6.83,230.0,25.0,Injured,19.2,SF
+66,Channing Frye,CLE,36.0,7.0,255.0,36.0,Injured,13.1,C
+67,Chasson Randle,WAS,26.0,6.17,185.0,49.0,Not Injured,,
+68,Cheick Diallo,NOP,22.0,6.75,220.0,64.0,Not Injured,11.2,PF
+69,Chimezie Metu,SAS,22.0,6.83,225.0,29.0,Not Injured,,
+70,Chris Boucher,TOR,26.0,6.83,200.0,28.0,Injured,1.0,PF
+71,Chris Chiozza,HOU,23.0,6.0,175.0,7.0,Not Injured,,
+72,Chris Paul,HOU,34.0,6.0,175.0,58.0,Injured,31.8,PG
+73,Christian Wood,NOP,23.0,6.83,214.0,21.0,Not Injured,,
+74,Clint Capela,HOU,25.0,6.83,240.0,67.0,Injured,27.5,C
+75,Cody Zeller,CHA,26.0,7.0,240.0,49.0,Injured,19.0,C
+76,Collin Sexton,CLE,20.0,6.17,190.0,82.0,Not Injured,,
+77,Corey Brewer,SAC,33.0,6.75,186.0,31.0,Not Injured,16.8,SF-SG
+78,Cory Joseph,IND,27.0,6.25,193.0,82.0,Not Injured,27.0,PG
+79,Courtney Lee,DAL,33.0,6.42,215.0,34.0,Injured,30.4,SG
+80,Cristiano Felicio,CHI,26.0,6.83,265.0,60.0,Injured,17.8,C
+81,D'Angelo Russell,BKN,23.0,6.42,198.0,81.0,Injured,25.7,PG
+82,D.J. Augustin,ORL,31.0,6.0,183.0,81.0,Not Injured,23.5,PG
+83,D.J. Wilson,MIL,23.0,6.83,231.0,48.0,Not Injured,3.2,PF
+84,DJ Stephens,MEM,28.0,6.42,188.0,1.0,Not Injured,,
+85,Dairis Bertans,NOP,29.0,6.33,200.0,12.0,Not Injured,,
+86,Damian Jones,GSW,23.0,7.0,245.0,24.0,Not Injured,5.9,C
+87,Damian Lillard,POR,28.0,6.25,195.0,80.0,Injured,36.6,PG
+88,Damion Lee,GSW,26.0,6.5,210.0,32.0,Not Injured,26.9,SG
+89,Damyean Dotson,NYK,25.0,6.5,210.0,73.0,Injured,10.8,SG
+90,Daniel Hamilton,ATL,23.0,6.58,195.0,19.0,Not Injured,4.7,SG
+91,Daniel Theis,BOS,27.0,6.67,243.0,66.0,Injured,14.9,C
+92,Danilo Gallinari,LAC,30.0,6.83,225.0,68.0,Injured,32.0,SF
+93,Danny Green,TOR,32.0,6.5,215.0,80.0,Injured,25.6,SG
+94,Dante Cunningham,SAS,32.0,6.67,230.0,64.0,Injured,21.4,SF
+95,Dante Exum,UTA,23.0,6.5,190.0,42.0,Injured,16.8,PG
+96,Danuel House Jr.,HOU,26.0,6.58,220.0,39.0,Not Injured,,
+97,Dario Saric,MIN,25.0,6.83,223.0,81.0,Injured,29.6,PF
+98,Darius Miller,NOP,29.0,6.67,225.0,69.0,Not Injured,23.7,SF
+99,Darren Collison,IND,31.0,6.0,175.0,76.0,Injured,29.2,PG
+100,Daryl Macon,DAL,23.0,6.25,185.0,8.0,Not Injured,,
+101,David Nwaba,CLE,26.0,6.33,219.0,51.0,Injured,23.5,SG
+102,Davis Bertans,SAS,26.0,6.83,225.0,76.0,Not Injured,14.1,PF
+103,Davon Reed,IND,24.0,6.42,208.0,10.0,Injured,11.5,SG
+104,De'Aaron Fox,SAC,21.0,6.25,175.0,81.0,Injured,27.8,PG
+105,De'Anthony Melton,PHX,21.0,6.33,200.0,50.0,Not Injured,,
+106,DeAndre Jordan,NYK,30.0,6.92,265.0,69.0,Injured,31.5,C
+107,DeAndre' Bembry,ATL,24.0,6.5,210.0,82.0,Injured,17.5,SF
+108,DeMar DeRozan,SAS,29.0,6.58,220.0,77.0,Injured,33.9,SG
+109,DeMarcus Cousins,GSW,28.0,6.92,270.0,30.0,Injured,36.2,C
+110,DeMarre Carroll,BKN,32.0,6.67,215.0,67.0,Injured,29.9,PF
+111,DeVaughn Akoon-Purcell,DEN,26.0,6.5,200.0,7.0,Not Injured,,
+112,Deandre Ayton,PHX,20.0,7.08,250.0,71.0,Not Injured,,
+113,Delon Wright,MEM,27.0,6.42,183.0,75.0,Injured,20.8,PG
+114,Demetrius Jackson,PHI,24.0,6.08,201.0,6.0,Not Injured,5.3,PG
+115,Deng Adel,CLE,22.0,6.58,200.0,19.0,Not Injured,,
+116,Dennis Schroder,OKC,25.0,6.08,172.0,79.0,Injured,31.0,PG
+117,Dennis Smith Jr.,NYK,21.0,6.25,195.0,53.0,Injured,,
+118,Deonte Burton,OKC,25.0,6.42,245.0,32.0,Not Injured,,
+119,Derrick Favors,UTA,27.0,6.83,265.0,76.0,Injured,28.0,C
+120,Derrick Jones Jr.,MIA,22.0,6.58,200.0,60.0,Not Injured,,
+121,Derrick Rose,MIN,30.0,6.25,200.0,51.0,Injured,16.8,PG
+122,Derrick White,SAS,24.0,6.33,190.0,67.0,Not Injured,8.2,PG
+123,Devin Booker,PHX,22.0,6.5,210.0,64.0,Injured,34.5,SG
+124,Devin Harris,DAL,36.0,6.25,185.0,68.0,Not Injured,18.9,PG
+125,Devin Robinson,WAS,24.0,6.67,200.0,7.0,Not Injured,13.0,SF
+126,Devonte' Graham,CHA,24.0,6.17,185.0,46.0,Not Injured,,
+127,Dewayne Dedmon,ATL,29.0,7.0,245.0,64.0,Injured,24.9,C
+128,Deyonta Davis,ATL,22.0,6.92,237.0,9.0,Injured,15.2,C
+129,Dillon Brooks,MEM,23.0,6.5,220.0,18.0,Not Injured,28.7,SF
+130,Dion Waiters,MIA,27.0,6.33,215.0,44.0,Injured,30.6,SG
+131,Dirk Nowitzki,DAL,41.0,7.0,245.0,51.0,Injured,24.7,C
+132,Domantas Sabonis,IND,23.0,6.92,240.0,74.0,Injured,24.5,C
+133,Donatas Motiejunas,SAS,28.0,7.0,220.0,3.0,Not Injured,,
+134,Donovan Mitchell,UTA,22.0,6.25,215.0,77.0,Injured,33.4,SG
+135,Donte DiVincenzo,MIL,22.0,6.33,203.0,27.0,Not Injured,,
+136,Donte Grantham,OKC,24.0,6.67,215.0,3.0,Not Injured,,
+137,Dorian Finney-Smith,DAL,26.0,6.67,220.0,81.0,Injured,21.3,PF
+138,Doug McDermott,IND,27.0,6.67,225.0,77.0,Injured,21.8,SF
+139,Dragan Bender,PHX,21.0,7.08,225.0,46.0,Not Injured,25.2,PF
+140,Draymond Green,GSW,29.0,6.58,230.0,66.0,Injured,32.7,PF
+141,Drew Eubanks,SAS,22.0,6.83,245.0,23.0,Not Injured,,
+142,Duncan Robinson,MIA,25.0,6.67,210.0,15.0,Not Injured,,
+143,Dusty Hannahs,MEM,25.0,6.33,195.0,2.0,Not Injured,,
+144,Dwayne Bacon,CHA,23.0,6.58,221.0,43.0,Injured,13.5,SG
+145,Dwight Howard,WAS,33.0,6.92,265.0,9.0,Not Injured,30.4,C
+146,Dwight Powell,DAL,27.0,6.92,240.0,77.0,Injured,21.2,C
+147,Dwyane Wade,MIA,37.0,6.33,220.0,72.0,Injured,22.9,SG
+148,Dzanan Musa,BKN,20.0,6.75,208.0,9.0,Not Injured,,
+149,E'Twaun Moore,NOP,30.0,6.33,191.0,53.0,Not Injured,31.5,SG
+150,Ed Davis,BKN,30.0,6.83,225.0,81.0,Not Injured,18.9,C
+151,Edmond Sumner,IND,23.0,6.5,176.0,23.0,Not Injured,2.0,PG
+152,Ekpe Udoh,UTA,32.0,6.83,245.0,51.0,Not Injured,12.9,C
+153,Elfrid Payton,NOP,25.0,6.33,185.0,42.0,Injured,28.7,PG
+154,Elie Okobo,PHX,21.0,6.25,190.0,53.0,Not Injured,,
+155,Emanuel Terry,MIA,22.0,6.75,220.0,3.0,Not Injured,,
+156,Emmanuel Mudiay,NYK,23.0,6.42,200.0,59.0,Injured,19.5,PG
+157,Enes Kanter,POR,27.0,6.92,250.0,67.0,Injured,25.8,C
+158,Eric Bledsoe,MIL,29.0,6.08,205.0,78.0,Not Injured,31.4,PG
+159,Eric Gordon,HOU,30.0,6.33,215.0,68.0,Injured,31.2,SG
+160,Eric Moreland,TOR,27.0,6.83,238.0,5.0,Not Injured,12.0,PF
+161,Ersan Ilyasova,MIL,32.0,6.83,235.0,67.0,Injured,25.1,PF
+162,Evan Fournier,ORL,26.0,6.58,205.0,81.0,Injured,32.2,SF
+163,Evan Turner,POR,30.0,6.58,220.0,73.0,Injured,25.7,SF
+164,Frank Jackson,NOP,21.0,6.25,205.0,61.0,Injured,,
+165,Frank Kaminsky,CHA,26.0,7.0,242.0,47.0,Injured,23.2,PF
+166,Frank Mason,SAC,25.0,5.92,190.0,38.0,Injured,18.9,PG
+167,Frank Ntilikina,NYK,20.0,6.5,200.0,43.0,Injured,21.9,PG
+168,Fred VanVleet,TOR,25.0,6.0,195.0,64.0,Not Injured,20.0,PG
+169,Furkan Korkmaz,PHI,21.0,6.58,190.0,48.0,Injured,5.7,SG
+170,Garrett Temple,LAC,33.0,6.5,195.0,75.0,Injured,24.8,SG
+171,Gary Clark,HOU,24.0,6.67,225.0,51.0,Not Injured,,
+172,Gary Harris,DEN,24.0,6.33,210.0,57.0,Injured,34.4,SG
+173,Gary Payton II,WAS,26.0,6.25,190.0,3.0,Not Injured,,
+174,Gary Trent Jr.,POR,20.0,6.5,205.0,15.0,Not Injured,,
+175,George Hill,MIL,33.0,6.25,188.0,60.0,Not Injured,27.0,PG
+176,George King,PHX,25.0,6.5,220.0,1.0,Not Injured,,
+177,Georges Niang,UTA,26.0,6.67,230.0,59.0,Not Injured,3.6,PF
+178,Gerald Green,HOU,33.0,6.58,205.0,73.0,Not Injured,22.7,SG
+179,Giannis Antetokounmpo,MIL,24.0,6.92,242.0,72.0,Injured,36.7,PF
+180,Glenn Robinson III,DET,25.0,6.5,222.0,47.0,Injured,,
+181,Goran Dragic,MIA,33.0,6.25,190.0,36.0,Injured,31.7,PG
+182,Gordon Hayward,BOS,29.0,6.67,225.0,72.0,Injured,5.0,SF
+183,Gorgui Dieng,MIN,29.0,6.92,252.0,76.0,Injured,16.9,C
+184,Grayson Allen,UTA,23.0,6.42,198.0,38.0,Not Injured,,
+185,Greg Monroe,PHI,29.0,6.92,265.0,43.0,Not Injured,20.4,C
+186,Guerschon Yabusele,BOS,23.0,6.67,260.0,41.0,Injured,7.1,PF
+187,Hamidou Diallo,OKC,20.0,6.42,198.0,51.0,Not Injured,,
+188,Harrison Barnes,SAC,27.0,6.67,225.0,77.0,Not Injured,34.2,PF
+189,Harry Giles III,SAC,21.0,6.83,240.0,58.0,Not Injured,,
+190,Hassan Whiteside,MIA,30.0,7.0,265.0,72.0,Injured,25.3,C
+191,Haywood Highsmith,PHI,22.0,6.58,220.0,5.0,Not Injured,,
+192,Henry Ellenson,NYK,22.0,6.92,245.0,19.0,Not Injured,8.7,PF
+193,Ian Clark,NOP,28.0,6.25,175.0,60.0,Injured,19.7,SG
+194,Ian Mahinmi,WAS,32.0,6.92,262.0,34.0,Injured,14.9,C
+195,Ike Anigbogu,IND,20.0,6.83,250.0,3.0,Injured,2.7,C
+196,Iman Shumpert,HOU,29.0,6.42,215.0,62.0,Injured,19.7,SG
+197,Isaac Bonga,LAL,19.0,6.67,180.0,22.0,Not Injured,,
+198,Isaac Humphries,ATL,21.0,7.0,260.0,5.0,Not Injured,,
+199,Isaiah Briscoe,ORL,23.0,6.25,215.0,39.0,Not Injured,,
+200,Isaiah Canaan,MIL,28.0,6.0,200.0,30.0,Injured,21.1,PG-SG
+201,Isaiah Hartenstein,HOU,21.0,7.0,249.0,28.0,Not Injured,,
+202,Isaiah Hicks,NYK,24.0,6.75,230.0,3.0,Not Injured,13.3,PF
+203,Isaiah Thomas,DEN,30.0,5.75,185.0,12.0,Injured,26.9,PG
+204,Ish Smith,DET,30.0,6.0,175.0,56.0,Not Injured,24.9,PG
+205,Ivan Rabb,MEM,22.0,6.83,220.0,49.0,Injured,14.3,PF
+206,Ivica Zubac,LAC,22.0,7.08,240.0,59.0,Not Injured,9.5,C
+207,J.J. Barea,DAL,35.0,6.0,185.0,38.0,Injured,23.2,PG
+208,J.P. Macura,CHA,24.0,6.42,205.0,2.0,Not Injured,,
+209,JJ Redick,PHI,35.0,6.33,200.0,76.0,Not Injured,,
+210,JR Smith,CLE,33.0,6.5,225.0,11.0,Not Injured,,
+211,JaKarr Sampson,CHI,26.0,6.75,215.0,4.0,Not Injured,15.6,SF
+212,JaMychal Green,LAC,29.0,6.75,227.0,65.0,Injured,28.0,PF
+213,JaVale McGee,LAL,31.0,7.0,270.0,75.0,Not Injured,9.5,C
+214,Jabari Parker,WAS,24.0,6.67,245.0,64.0,Injured,24.0,PF
+215,Jacob Evans,GSW,22.0,6.5,210.0,30.0,Not Injured,,
+216,Jae Crowder,UTA,28.0,6.5,235.0,80.0,Not Injured,26.1,SF
+217,Jahlil Okafor,NOP,23.0,6.92,275.0,59.0,Injured,12.6,C
+218,Jake Layman,POR,25.0,6.75,215.0,71.0,Not Injured,4.6,SF
+219,Jakob Poeltl,SAS,23.0,7.0,230.0,77.0,Not Injured,18.6,C
+220,Jalen Brunson,DAL,22.0,6.25,190.0,73.0,Not Injured,,
+221,Jalen Jones,CLE,26.0,6.58,220.0,16.0,Not Injured,11.3,SF
+222,Jamal Crawford,PHX,39.0,6.42,185.0,64.0,Injured,20.7,SG
+223,Jamal Murray,DEN,22.0,6.33,207.0,75.0,Not Injured,31.7,PG
+224,James Ennis III,PHI,28.0,6.58,210.0,58.0,Not Injured,,
+225,James Harden,HOU,29.0,6.42,220.0,78.0,Injured,35.4,SG
+226,James Johnson,MIA,32.0,6.67,240.0,55.0,Injured,26.6,PF
+227,James Nunnally,HOU,28.0,6.58,208.0,15.0,Not Injured,,
+228,Jared Dudley,BKN,33.0,6.58,237.0,59.0,Injured,14.3,PF
+229,Jared Terrell,MIN,24.0,6.25,227.0,14.0,Not Injured,,
+230,Jarell Martin,ORL,25.0,6.83,239.0,42.0,Injured,22.8,PF
+231,Jaren Jackson Jr.,MEM,19.0,6.92,242.0,58.0,Not Injured,,
+232,Jaron Blossomgame,CLE,25.0,6.67,220.0,27.0,Not Injured,,
+233,Jarred Vanderbilt,DEN,20.0,6.75,214.0,17.0,Not Injured,,
+234,Jarrett Allen,BKN,21.0,6.92,237.0,80.0,Injured,20.0,C
+235,Jason Smith,NOP,33.0,7.0,240.0,20.0,Injured,8.6,C
+236,Jawun Evans,OKC,22.0,6.0,190.0,8.0,Injured,16.2,PG
+237,Jaylen Adams,ATL,23.0,6.17,190.0,34.0,Not Injured,,
+238,Jaylen Brown,BOS,22.0,6.58,220.0,74.0,Injured,30.7,SG
+239,Jaylen Morris,MIL,23.0,6.42,185.0,4.0,Injured,16.3,SG
+240,Jayson Tatum,BOS,21.0,6.67,208.0,79.0,Not Injured,30.5,SF
+241,Jeff Green,WAS,32.0,6.75,235.0,77.0,Not Injured,23.4,PF
+242,Jeff Teague,MIN,31.0,6.17,195.0,42.0,Injured,33.0,PG
+243,Jemerrio Jones,LAL,24.0,6.42,174.0,6.0,Not Injured,,
+244,Jerami Grant,OKC,25.0,6.75,220.0,80.0,Not Injured,20.3,PF
+245,Jeremy Lamb,CHA,27.0,6.42,185.0,79.0,Injured,24.6,SG
+246,Jeremy Lin,TOR,30.0,6.25,200.0,74.0,Injured,25.0,PG
+247,Jerian Grant,ORL,26.0,6.33,205.0,60.0,Not Injured,22.8,PG
+248,Jerome Robinson,LAC,22.0,6.42,190.0,33.0,Not Injured,,
+249,Jerryd Bayless,MIN,30.0,6.25,200.0,34.0,Injured,23.7,SG
+250,Jevon Carter,MEM,23.0,6.17,196.0,39.0,Not Injured,,
+251,Jimmer Fredette,PHX,30.0,6.17,195.0,6.0,Not Injured,,
+252,Jimmy Butler,PHI,29.0,6.67,232.0,65.0,Injured,36.7,SG
+253,Joakim Noah,MEM,34.0,6.92,230.0,42.0,Not Injured,5.7,C
+254,Jodie Meeks,TOR,31.0,6.33,210.0,8.0,Not Injured,14.5,SG
+255,Joe Chealey,CHA,23.0,6.25,190.0,1.0,Not Injured,,
+256,Joe Harris,BKN,27.0,6.5,218.0,76.0,Injured,25.3,SG
+257,Joe Ingles,UTA,31.0,6.67,226.0,82.0,Not Injured,31.4,SF
+258,Joel Embiid,PHI,25.0,7.0,250.0,64.0,Injured,30.3,C
+259,John Collins,ATL,21.0,6.83,235.0,61.0,Not Injured,24.1,PF
+260,John Henson,CLE,28.0,6.92,219.0,14.0,Injured,25.9,C
+261,John Holland,CLE,30.0,6.42,205.0,1.0,Injured,7.3,SF
+262,John Jenkins,NYK,28.0,6.33,215.0,26.0,Not Injured,,
+263,John Wall,WAS,28.0,6.33,210.0,32.0,Not Injured,34.4,PG
+264,Johnathan Motley,LAC,24.0,6.83,230.0,22.0,Injured,16.0,PF
+265,Johnathan Williams,LAL,24.0,6.75,228.0,24.0,Not Injured,,
+266,Jon Leuer,DET,30.0,6.83,228.0,41.0,Injured,17.0,PF
+267,Jonah Bolden,PHI,23.0,6.83,220.0,44.0,Not Injured,,
+268,Jonas Jerebko,GSW,32.0,6.83,231.0,73.0,Not Injured,15.3,PF
+269,Jonas Valanciunas,MEM,27.0,7.0,265.0,49.0,Injured,22.4,C
+270,Jonathan Isaac,ORL,21.0,6.83,210.0,75.0,Injured,19.9,PF
+271,Jonathon Simmons,PHI,29.0,6.5,195.0,56.0,Injured,29.4,SG
+272,Jordan Bell,GSW,24.0,6.75,224.0,68.0,Injured,14.2,C
+273,Jordan Clarkson,CLE,27.0,6.42,194.0,81.0,Not Injured,23.3,SG
+274,Jordan Loyd,TOR,25.0,6.33,210.0,12.0,Not Injured,,
+275,Jordan McRae,WAS,28.0,6.42,179.0,27.0,Not Injured,,
+276,Jordan Sibert,ATL,26.0,6.33,187.0,1.0,Not Injured,,
+277,Jose Calderon,DET,37.0,6.25,200.0,49.0,Not Injured,16.0,PG
+278,Josh Hart,LAL,24.0,6.42,215.0,67.0,Injured,23.2,SG
+279,Josh Jackson,PHX,22.0,6.67,200.0,79.0,Injured,25.4,SF
+280,Josh Okogie,MIN,20.0,6.33,212.0,74.0,Not Injured,,
+281,Josh Richardson,MIA,25.0,6.5,200.0,73.0,Injured,33.2,SF
+282,Jrue Holiday,NOP,29.0,6.33,205.0,67.0,Injured,36.1,SG
+283,Juancho Hernangomez,DEN,23.0,6.75,230.0,70.0,Not Injured,,
+284,Julian Washburn,MEM,27.0,6.67,209.0,18.0,Not Injured,,
+285,Julius Randle,NOP,24.0,6.75,250.0,73.0,Not Injured,26.7,C
+286,Justin Anderson,ATL,25.0,6.5,230.0,48.0,Injured,13.7,SF
+287,Justin Holiday,MEM,30.0,6.5,181.0,82.0,Not Injured,31.5,SG
+288,Justin Jackson,DAL,24.0,6.67,210.0,81.0,Not Injured,22.1,SF
+289,Justin Patton,PHI,22.0,7.0,241.0,3.0,Injured,4.0,C
+290,Justise Winslow,MIA,23.0,6.58,225.0,66.0,Injured,24.7,PF
+291,Jusuf Nurkic,POR,24.0,7.0,275.0,72.0,Injured,26.4,C
+292,Kadeem Allen,NYK,26.0,6.25,200.0,19.0,Not Injured,5.9,PG
+293,Kalin Lucas,DET,30.0,6.08,195.0,1.0,Not Injured,,
+294,Karl-Anthony Towns,MIN,23.0,7.0,248.0,77.0,Not Injured,35.6,C
+295,Kawhi Leonard,TOR,28.0,6.58,230.0,60.0,Injured,23.3,SF
+296,Keita Bates-Diop,MIN,23.0,6.75,229.0,30.0,Not Injured,,
+297,Kelly Olynyk,MIA,28.0,7.0,240.0,79.0,Injured,23.4,PF
+298,Kelly Oubre Jr.,PHX,23.0,6.58,205.0,69.0,Not Injured,,
+299,Kemba Walker,CHA,29.0,6.08,184.0,82.0,Injured,34.2,PG
+300,Kenneth Faried,HOU,29.0,6.67,220.0,37.0,Not Injured,14.4,PF
+301,Kenrich Williams,NOP,24.0,6.58,210.0,46.0,Not Injured,,
+302,Kent Bazemore,ATL,29.0,6.42,201.0,67.0,Injured,27.5,SG
+303,Kentavious Caldwell-Pope,LAL,26.0,6.42,205.0,82.0,Injured,33.2,SG
+304,Kevin Durant,GSW,30.0,6.75,240.0,78.0,Injured,34.2,SF
+305,Kevin Huerter,ATL,20.0,6.58,190.0,75.0,Not Injured,,
+306,Kevin Knox,NYK,19.0,6.75,215.0,75.0,Not Injured,,
+307,Kevin Love,CLE,30.0,6.83,251.0,22.0,Injured,28.0,C
+308,Kevon Looney,GSW,23.0,6.75,220.0,80.0,Not Injured,13.8,C
+309,Khem Birch,ORL,26.0,6.75,233.0,50.0,Not Injured,13.8,C
+310,Khris Middleton,MIL,27.0,6.67,222.0,77.0,Not Injured,36.4,SF
+311,Khyri Thomas,DET,23.0,6.25,210.0,26.0,Not Injured,,
+312,Klay Thompson,GSW,29.0,6.58,215.0,78.0,Not Injured,34.3,SG
+313,Kobi Simmons,CLE,21.0,6.33,170.0,1.0,Not Injured,20.1,PG
+314,Kosta Koufos,SAC,30.0,7.0,245.0,42.0,Not Injured,19.6,C
+315,Kostas Antetokounmpo,DAL,21.0,6.83,200.0,2.0,Not Injured,,
+316,Kris Dunn,CHI,25.0,6.33,205.0,46.0,Injured,29.3,PG
+317,Kyle Anderson,MEM,25.0,6.75,230.0,43.0,Not Injured,26.7,SF
+318,Kyle Korver,UTA,38.0,6.58,212.0,70.0,Injured,21.6,SG
+319,Kyle Kuzma,LAL,23.0,6.75,220.0,70.0,Injured,31.2,PF
+320,Kyle Lowry,TOR,33.0,6.08,196.0,65.0,Not Injured,32.2,PG
+321,Kyle O'Quinn,IND,29.0,6.83,250.0,45.0,Injured,18.0,C
+322,Kyrie Irving,BOS,27.0,6.25,193.0,67.0,Injured,32.2,PG
+323,LaMarcus Aldridge,SAS,33.0,6.92,260.0,81.0,Injured,33.5,C
+324,Lance Stephenson,LAL,28.0,6.5,230.0,68.0,Not Injured,22.6,SG
+325,Lance Thomas,NYK,31.0,6.67,240.0,46.0,Not Injured,18.5,PF
+326,Landry Shamet,LAC,22.0,6.42,188.0,79.0,Not Injured,,
+327,Langston Galloway,DET,27.0,6.17,200.0,80.0,Not Injured,14.9,SG
+328,Larry Nance Jr.,CLE,26.0,6.75,230.0,67.0,Injured,,
+329,Lauri Markkanen,CHI,22.0,7.0,240.0,52.0,Injured,29.7,PF
+330,LeBron James,LAL,34.0,6.67,250.0,55.0,Not Injured,36.9,PF
+331,Lonnie Walker IV,SAS,20.0,6.42,205.0,17.0,Not Injured,,
+332,Lonzo Ball,LAL,21.0,6.5,190.0,47.0,Injured,34.2,PG
+333,Lorenzo Brown,TOR,28.0,6.42,189.0,26.0,Not Injured,9.9,PG
+334,Lou Williams,LAC,32.0,6.08,175.0,75.0,Injured,32.8,SG
+335,Luc Mbah a Moute,LAC,32.0,6.67,230.0,4.0,Injured,25.6,PF
+336,Luka Doncic,DAL,20.0,6.58,218.0,72.0,Not Injured,,
+337,Luke Kennard,DET,23.0,6.42,206.0,63.0,Injured,20.0,SG
+338,Luke Kornet,NYK,23.0,7.08,250.0,46.0,Not Injured,16.3,PF
+339,Luol Deng,MIN,34.0,6.75,237.0,22.0,Injured,13.0,SF
+340,Malachi Richardson,TOR,23.0,6.5,205.0,22.0,Injured,12.5,SG
+341,Malcolm Brogdon,MIL,26.0,6.42,229.0,64.0,Injured,29.9,PG
+342,Malcolm Miller,TOR,26.0,6.58,210.0,10.0,Not Injured,8.4,SF
+343,Malik Beasley,DEN,22.0,6.42,195.0,81.0,Injured,9.4,SG
+344,Malik Monk,CHA,21.0,6.25,200.0,73.0,Not Injured,13.6,SG
+345,MarShon Brooks,MEM,30.0,6.42,200.0,29.0,Injured,27.6,SG
+346,Marc Gasol,TOR,34.0,7.08,255.0,79.0,Injured,33.0,C
+347,Marcin Gortat,LAC,35.0,6.92,240.0,47.0,Not Injured,25.3,C
+348,Marco Belinelli,SAS,33.0,6.42,210.0,79.0,Not Injured,24.3,SG
+349,Marcus Derrickson,GSW,23.0,6.58,249.0,11.0,Not Injured,,
+350,Marcus Morris,BOS,29.0,6.75,235.0,75.0,Injured,26.8,PF
+351,Marcus Smart,BOS,25.0,6.33,220.0,80.0,Injured,29.9,SG
+352,Mario Hezonja,NYK,24.0,6.67,225.0,58.0,Not Injured,22.1,SF
+353,Markelle Fultz,ORL,21.0,6.33,200.0,19.0,Injured,18.1,SG
+354,Markieff Morris,OKC,29.0,6.83,245.0,58.0,Injured,27.0,PF
+355,Marquese Chriss,CLE,21.0,6.83,240.0,43.0,Injured,21.2,PF
+356,Marvin Bagley III,SAC,20.0,6.92,234.0,62.0,Not Injured,,
+357,Marvin Williams,CHA,33.0,6.75,237.0,75.0,Injured,25.7,PF
+358,Mason Plumlee,DEN,29.0,6.92,235.0,82.0,Injured,19.4,C
+359,Matthew Dellavedova,CLE,28.0,6.33,200.0,48.0,Injured,18.7,PG
+360,Maurice Harkless,POR,26.0,6.75,220.0,60.0,Injured,21.4,SF
+361,Maxi Kleber,DAL,27.0,6.92,240.0,71.0,Not Injured,16.8,PF
+362,Melvin Frazier Jr.,ORL,22.0,6.5,200.0,10.0,Not Injured,,
+363,Meyers Leonard,POR,27.0,7.08,255.0,61.0,Injured,7.7,C
+364,Michael Beasley,LAL,30.0,6.75,235.0,26.0,Not Injured,22.3,PF
+365,Michael Carter-Williams,ORL,27.0,6.5,190.0,28.0,Injured,16.1,PG
+366,Michael Kidd-Gilchrist,CHA,25.0,6.58,232.0,64.0,Injured,25.0,SF
+367,Mikal Bridges,PHX,22.0,6.58,210.0,82.0,Not Injured,,
+368,Mike Conley,MEM,31.0,6.08,175.0,70.0,Not Injured,31.1,PG
+369,Mike Muscala,LAL,27.0,6.92,240.0,64.0,Injured,20.0,C
+370,Mike Scott,PHI,30.0,6.67,237.0,79.0,Injured,18.5,PF
+371,Miles Bridges,CHA,21.0,6.58,225.0,80.0,Not Injured,,
+372,Miles Plumlee,ATL,30.0,6.92,249.0,18.0,Injured,16.7,C
+373,Milos Teodosic,LAC,32.0,6.42,196.0,15.0,Injured,25.2,PG
+374,Mitchell Creek,MIN,27.0,6.5,225.0,5.0,Not Injured,,
+375,Mitchell Robinson,NYK,21.0,7.08,240.0,66.0,Not Injured,,
+376,Mo Bamba,ORL,21.0,7.0,221.0,47.0,Not Injured,,
+377,Monte Morris,DEN,24.0,6.25,175.0,82.0,Not Injured,8.3,PG
+378,Montrezl Harrell,LAC,25.0,6.67,240.0,82.0,Not Injured,17.0,C
+379,Moritz Wagner,LAL,22.0,6.92,245.0,43.0,Not Injured,,
+380,Myles Turner,IND,23.0,6.92,250.0,74.0,Injured,28.2,C
+381,Naz Mitrou-Long,UTA,25.0,6.33,218.0,14.0,Not Injured,1.0,SG
+382,Nemanja Bjelica,SAC,31.0,6.83,234.0,77.0,Not Injured,20.5,PF
+383,Nene,HOU,36.0,6.92,250.0,42.0,Not Injured,,
+384,Nerlens Noel,OKC,25.0,6.92,220.0,77.0,Injured,15.7,C
+385,Nick Young,DEN,34.0,6.58,210.0,4.0,Injured,17.4,SG
+386,Nicolas Batum,CHA,30.0,6.67,200.0,75.0,Injured,31.0,SG
+387,Nik Stauskas,CLE,25.0,6.5,205.0,68.0,Injured,12.8,SG
+388,Nikola Jokic,DEN,24.0,7.0,250.0,80.0,Injured,32.6,C
+389,Nikola Mirotic,MIL,28.0,6.83,250.0,46.0,Injured,27.2,PF
+390,Nikola Vucevic,ORL,28.0,7.0,260.0,80.0,Injured,29.5,C
+391,Noah Vonleh,NYK,23.0,6.75,250.0,68.0,Injured,16.2,PF
+392,Norman Powell,TOR,26.0,6.33,215.0,60.0,Not Injured,15.2,SG
+393,OG Anunoby,TOR,21.0,6.67,232.0,67.0,Not Injured,20.0,SF
+394,Okaro White,WAS,26.0,6.67,205.0,3.0,Injured,13.3,PF
+395,Omari Spellman,ATL,21.0,6.75,245.0,46.0,Not Injured,,
+396,Omri Casspi,MEM,31.0,6.75,225.0,36.0,Not Injured,14.0,SF
+397,Otto Porter Jr.,CHI,26.0,6.67,198.0,56.0,Injured,,
+398,PJ Dozier,BOS,22.0,6.5,205.0,6.0,Not Injured,1.5,PG
+399,PJ Tucker,HOU,34.0,6.5,245.0,82.0,Not Injured,,
+400,Pascal Siakam,TOR,25.0,6.75,230.0,80.0,Not Injured,20.7,PF
+401,Pat Connaughton,MIL,26.0,6.33,209.0,61.0,Not Injured,18.1,SG
+402,Patrick Beverley,LAC,30.0,6.08,185.0,78.0,Injured,30.4,SG
+403,Patrick McCaw,TOR,23.0,6.58,185.0,29.0,Injured,16.9,SG
+404,Patrick Patterson,OKC,30.0,6.75,230.0,63.0,Injured,15.5,PF
+405,Patty Mills,SAS,30.0,6.0,180.0,82.0,Not Injured,25.7,PG
+406,Pau Gasol,MIL,38.0,7.0,250.0,30.0,Injured,23.5,C
+407,Paul George,OKC,29.0,6.75,220.0,77.0,Injured,36.6,SF
+408,Paul Millsap,DEN,34.0,6.67,246.0,70.0,Injured,30.1,PF
+409,Quincy Acy,PHX,28.0,6.58,240.0,10.0,Injured,19.4,PF
+410,Quincy Pondexter,SAS,31.0,6.58,230.0,53.0,Not Injured,8.5,SF
+411,Quinn Cook,GSW,26.0,6.17,179.0,74.0,Not Injured,22.4,PG
+412,RJ Hunter,BOS,25.0,6.42,185.0,1.0,Not Injured,,
+413,Rajon Rondo,LAL,33.0,6.08,186.0,46.0,Injured,26.2,PG
+414,Raul Neto,UTA,27.0,6.08,179.0,37.0,Injured,12.1,PG
+415,Rawle Alkins,CHI,21.0,6.42,225.0,10.0,Not Injured,,
+416,Ray Spalding,PHX,22.0,6.83,215.0,14.0,Not Injured,,
+417,Raymond Felton,OKC,35.0,6.08,205.0,33.0,Not Injured,16.6,PG
+418,Reggie Bullock,LAL,28.0,6.58,205.0,63.0,Injured,27.9,SF
+419,Reggie Jackson,DET,29.0,6.25,208.0,82.0,Not Injured,26.7,PG
+420,Richaun Holmes,PHX,25.0,6.83,235.0,70.0,Injured,15.5,C
+421,Ricky Rubio,UTA,28.0,6.33,190.0,68.0,Injured,29.3,PG
+422,Robert Covington,MIN,28.0,6.75,225.0,35.0,Not Injured,31.7,SF
+423,Robert Williams III,BOS,21.0,6.83,240.0,32.0,Not Injured,,
+424,Robin Lopez,CHI,31.0,7.0,275.0,74.0,Not Injured,26.4,C
+425,Rodions Kurucs,BKN,21.0,6.75,210.0,63.0,Not Injured,,
+426,Rodney Hood,POR,26.0,6.67,206.0,72.0,Injured,26.9,SG
+427,Rodney McGruder,LAC,27.0,6.33,200.0,66.0,Injured,16.6,SG
+428,Ron Baker,WAS,26.0,6.33,220.0,15.0,Injured,13.3,SG
+429,Rondae Hollis-Jefferson,BKN,24.0,6.58,217.0,59.0,Injured,28.2,SF
+430,Royce O'Neale,UTA,26.0,6.5,226.0,82.0,Not Injured,16.7,SF
+431,Rudy Gay,SAS,32.0,6.67,230.0,69.0,Injured,21.6,PF
+432,Rudy Gobert,UTA,27.0,7.08,245.0,81.0,Injured,32.4,C
+433,Russell Westbrook,OKC,30.0,6.25,200.0,73.0,Not Injured,36.4,PG
+434,Ryan Anderson,MIA,31.0,6.83,240.0,25.0,Injured,26.1,PF
+435,Ryan Arcidiacono,CHI,25.0,6.25,200.0,81.0,Not Injured,12.7,PG
+436,Ryan Broekhoff,DAL,28.0,6.58,215.0,42.0,Not Injured,,
+437,Salah Mejri,DAL,33.0,7.17,235.0,36.0,Injured,12.0,C
+438,Sam Dekker,WAS,25.0,6.75,230.0,47.0,Not Injured,12.1,PF
+439,Scott Machado,LAL,29.0,6.08,205.0,4.0,Not Injured,,
+440,Semi Ojeleye,BOS,24.0,6.58,241.0,56.0,Not Injured,15.8,PF
+441,Serge Ibaka,TOR,29.0,6.83,235.0,74.0,Injured,27.5,PF
+442,Seth Curry,POR,28.0,6.17,185.0,74.0,Injured,,
+443,Shabazz Napier,BKN,27.0,6.08,180.0,56.0,Injured,20.7,PG
+444,Shai Gilgeous-Alexander,LAC,20.0,6.5,181.0,82.0,Not Injured,,
+445,Shake Milton,PHI,22.0,6.5,207.0,20.0,Not Injured,,
+446,Shaquille Harrison,CHI,25.0,6.33,190.0,73.0,Not Injured,16.7,PG
+447,Shaun Livingston,GSW,33.0,6.58,192.0,64.0,Injured,15.9,PG
+448,Shelvin Mack,CHA,29.0,6.25,203.0,57.0,Not Injured,19.8,PG
+449,Sindarius Thornwell,LAC,24.0,6.42,215.0,64.0,Not Injured,15.8,SG
+450,Skal Labissiere,POR,23.0,6.92,235.0,22.0,Injured,20.7,PF
+451,Solomon Hill,NOP,28.0,6.58,225.0,44.0,Injured,15.6,SF
+452,Spencer Dinwiddie,BKN,26.0,6.5,210.0,68.0,Not Injured,28.8,PG
+453,Stanley Johnson,NOP,23.0,6.58,245.0,66.0,Injured,27.4,SF
+454,Stephen Curry,GSW,31.0,6.25,190.0,69.0,Injured,32.0,PG
+455,Sterling Brown,MIL,24.0,6.5,232.0,58.0,Not Injured,14.4,SG
+456,Steven Adams,OKC,25.0,7.0,265.0,80.0,Not Injured,32.7,C
+457,Svi Mykhailiuk,DET,22.0,6.67,205.0,42.0,Not Injured,,
+458,T.J. McConnell,PHI,27.0,6.17,190.0,76.0,Injured,22.4,PG
+459,T.J. Warren,PHX,25.0,6.67,215.0,43.0,Not Injured,33.0,SF
+460,TJ Leaf,IND,22.0,6.83,225.0,58.0,Not Injured,,
+461,Tahjere McCall,BKN,24.0,6.42,190.0,1.0,Not Injured,,
+462,Taj Gibson,MIN,34.0,6.75,232.0,70.0,Not Injured,33.2,PF
+463,Taurean Prince,ATL,25.0,6.67,220.0,55.0,Not Injured,,
+464,Terrance Ferguson,OKC,21.0,6.58,190.0,74.0,Injured,12.5,SG
+465,Terrence Jones,HOU,27.0,6.75,252.0,2.0,Not Injured,,
+466,Terrence Ross,ORL,28.0,6.58,206.0,81.0,Injured,25.0,SG
+467,Terry Rozier,BOS,25.0,6.08,190.0,79.0,Not Injured,25.9,PG
+468,Thabo Sefolosha,UTA,35.0,6.58,220.0,50.0,Injured,21.2,SF
+469,Thaddeus Young,IND,31.0,6.67,221.0,81.0,Not Injured,32.2,PF
+470,Theo Pinson,BKN,23.0,6.5,218.0,18.0,Not Injured,,
+471,Thomas Bryant,WAS,21.0,6.92,248.0,72.0,Not Injured,4.8,C
+472,Thomas Welsh,DEN,23.0,7.0,255.0,11.0,Not Injured,,
+473,Thon Maker,DET,22.0,7.08,221.0,64.0,Not Injured,16.7,C
+474,Tim Frazier,MIL,28.0,6.08,170.0,59.0,Injured,14.2,PG
+475,Tim Hardaway Jr.,DAL,27.0,6.5,205.0,65.0,Injured,,
+476,Timothe Luwawu-Cabarrot,CHI,24.0,6.5,210.0,50.0,Injured,15.5,SF
+477,Tobias Harris,PHI,26.0,6.75,235.0,82.0,Not Injured,33.4,PF
+478,Tomas Satoransky,WAS,27.0,6.58,210.0,80.0,Not Injured,22.5,SG
+479,Tony Bradley,UTA,21.0,6.83,248.0,3.0,Injured,3.2,C
+480,Tony Parker,CHA,37.0,6.17,185.0,56.0,Injured,19.5,PG
+481,Tony Snell,MIL,27.0,6.58,213.0,74.0,Injured,27.4,SG
+482,Torrey Craig,DEN,28.0,6.58,215.0,75.0,Not Injured,16.1,SF
+483,Trae Young,ATL,20.0,6.17,180.0,81.0,Not Injured,,
+484,Treveon Graham,BKN,25.0,6.42,225.0,35.0,Injured,16.7,SG
+485,Trevon Duval,HOU,20.0,6.17,189.0,3.0,Not Injured,,
+486,Trevor Ariza,WAS,33.0,6.67,215.0,69.0,Injured,33.9,SF
+487,Trey Burke,DAL,26.0,6.08,175.0,58.0,Not Injured,21.8,PG
+488,Trey Lyles,DEN,23.0,6.83,234.0,64.0,Not Injured,19.1,PF
+489,Tristan Thompson,CLE,28.0,6.83,238.0,43.0,Injured,20.2,C
+490,Troy Brown Jr.,WAS,19.0,6.58,215.0,52.0,Not Injured,,
+491,Troy Caupain,ORL,23.0,6.33,210.0,4.0,Not Injured,,
+492,Troy Daniels,PHX,27.0,6.33,205.0,51.0,Injured,20.5,SG
+493,Troy Williams,SAC,24.0,6.58,218.0,21.0,Injured,14.6,SF
+494,Tyler Cavanaugh,UTA,25.0,6.75,238.0,11.0,Injured,13.3,PF
+495,Tyler Davis,OKC,22.0,6.83,266.0,1.0,Not Injured,,
+496,Tyler Dorsey,MEM,23.0,6.42,183.0,48.0,Not Injured,17.4,SG
+497,Tyler Johnson,PHX,27.0,6.33,190.0,57.0,Injured,28.5,PG
+498,Tyler Lydon,DEN,23.0,6.83,225.0,25.0,Injured,2.0,PF
+499,Tyler Ulis,CHI,23.0,5.83,160.0,1.0,Injured,23.4,PG
+500,Tyler Zeller,MEM,29.0,7.0,253.0,6.0,Injured,16.8,C
+501,Tyreke Evans,IND,29.0,6.5,220.0,69.0,Injured,30.9,PG
+502,Tyrone Wallace,LAC,25.0,6.42,198.0,62.0,Not Injured,28.4,PG
+503,Tyson Chandler,LAL,36.0,7.08,240.0,55.0,Injured,25.0,C
+504,Tyus Jones,MIN,23.0,6.17,196.0,68.0,Injured,17.9,PG
+505,Udonis Haslem,MIA,39.0,6.67,235.0,10.0,Not Injured,5.1,C
+506,Victor Oladipo,IND,27.0,6.33,210.0,36.0,Not Injured,34.0,SG
+507,Vince Carter,ATL,42.0,6.5,220.0,76.0,Injured,17.7,SF
+508,Vincent Edwards,HOU,23.0,6.67,225.0,2.0,Not Injured,,
+509,Wade Baldwin IV,POR,23.0,6.33,200.0,16.0,Not Injured,,
+510,Walter Lemon Jr.,CHI,26.0,6.25,180.0,6.0,Not Injured,,
+511,Wayne Ellington,DET,31.0,6.42,200.0,53.0,Injured,26.5,SG
+512,Wayne Selden,CHI,24.0,6.42,230.0,75.0,Not Injured,19.8,SG
+513,Wendell Carter Jr.,CHI,20.0,6.83,255.0,44.0,Not Injured,,
+514,Wes Iwundu,ORL,24.0,6.58,195.0,68.0,Not Injured,,
+515,Wesley Johnson,WAS,31.0,6.58,215.0,38.0,Injured,20.1,SF
+516,Wesley Matthews,IND,32.0,6.42,220.0,69.0,Injured,33.8,SF
+517,Will Barton,DEN,28.0,6.5,190.0,43.0,Not Injured,33.1,SG
+518,Willie Cauley-Stein,SAC,25.0,7.0,240.0,81.0,Injured,28.0,C
+519,Willy Hernangomez,CHA,25.0,6.92,240.0,58.0,Not Injured,10.3,C
+520,Wilson Chandler,LAC,32.0,6.75,225.0,51.0,Not Injured,31.7,SF
+521,Yante Maten,MIA,22.0,6.67,240.0,2.0,Not Injured,,
+522,Yogi Ferrell,SAC,26.0,6.0,180.0,71.0,Not Injured,27.8,SG
+523,Yuta Watanabe,MEM,24.0,6.75,205.0,15.0,Not Injured,,
+524,Zach Collins,POR,21.0,7.0,235.0,77.0,Injured,15.8,C
+525,Zach LaVine,CHI,24.0,6.42,200.0,63.0,Not Injured,27.3,SG
+526,Zach Lofton,DET,26.0,6.33,180.0,1.0,Not Injured,,
+527,Zaza Pachulia,DET,35.0,6.92,270.0,68.0,Injured,14.1,C
+528,Zhaire Smith,PHI,20.0,6.33,199.0,6.0,Not Injured,,
+529,Zhou Qi,HOU,23.0,7.08,210.0,1.0,Injured,6.9,C

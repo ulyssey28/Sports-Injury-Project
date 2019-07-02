@@ -1,0 +1,1361 @@
+,POSITION,HEIGHT,WEIGHT,PLAYER,AGE,Injury Status
+0,LW,74.0,214,Abdelkader Justin,32,Injured
+1,LW,71.0,196,Aberg Pontus,25,Injured
+2,RW,69.0,171,Abramov Vitaly,21,Not Injured
+3,C,70.0,205,Acciari Noel,27,Not Injured
+4,LW,72.0,199,Agostino Kenny,27,Not Injured
+5,LW,70.0,187,Agozzino Andrew,28,Not Injured
+6,C,72.0,176,Aho Sebastian,21,Not Injured
+7,D,73.0,179,Allard Frederic,21,Not Injured
+8,G,74.0,203,Allen Jake,28,Not Injured
+9,D,76.0,201,Alt Mark,27,Not Injured
+10,D,75.0,219,Alzner Karl,30,Not Injured
+11,C,73.0,205,Amadio Michael,23,Not Injured
+12,D,74.0,205,Amorosa Terrance,24,Not Injured
+13,G,76.0,230,Andersen Frederik,29,Injured
+14,G,74.0,185,Anderson Craig,38,Injured
+15,RW,71.0,190,Anderson Joey,21,Injured
+16,RW,75.0,221,Anderson Josh,25,Not Injured
+17,C,71.0,191,Anderson-Dolan Jaret,19,Not Injured
+18,C,71.0,198,Andersson Lias,20,Not Injured
+19,D,73.0,214,Andersson Rasmus,22,Not Injured
+20,LW,73.0,203,Andreoff Andy,28,Not Injured
+21,RW,70.0,188,Andrighetto Sven,26,Injured
+22,C,77.0,210,Angello Anthony,23,Not Injured
+23,C,76.0,198,Anisimov Artem,31,Injured
+24,D,71.0,175,Antipin Victor,26,Not Injured
+25,C,74.0,193,Appleton Mason,23,Not Injured
+26,LW,71.0,176,Archambault Oliver,26,Not Injured
+27,RW,75.0,212,Archibald Darren,29,Not Injured
+28,RW,70.0,176,Archibald Josh,26,Injured
+29,RW,76.0,210,Armia Joel,26,Injured
+30,RW,69.0,180,Arvidsson Viktor,26,Injured
+31,C,72.0,204,Aston-Reese Zachary,24,Not Injured
+32,C,74.0,177,Athanasiou Andreas,24,Injured
+33,RW,68.0,179,Atkinson Cam,30,Injured
+34,RW,71.0,196,Aube-Kubel Nicolas,23,Not Injured
+35,D,71.0,187,Auvitu Yohann,29,Not Injured
+36,G,70.0,183,Bachman Richard,31,Not Injured
+37,RW,75.0,215,Backes David,35,Injured
+38,C,72.0,200,Backlund Mikael,30,Injured
+39,C,73.0,210,Backstrom Nicklas,31,Not Injured
+40,LW,71.0,190,Baertschi Sven,26,Injured
+41,RW,73.0,212,Bailey Josh,29,Not Injured
+42,RW,76.0,214,Bailey Justin,24,Not Injured
+43,C,74.0,198,Bakos Martin,29,Not Injured
+44,LW,71.0,175,Balcers Rudolfs,22,Not Injured
+45,LW,71.0,185,Bancks Carter,29,Not Injured
+46,RW,73.0,205,Baptiste Nicholas,23,Not Injured
+47,C,72.0,187,Barbashev Ivan,23,Not Injured
+48,D,73.0,200,Barberio Mark,29,Injured
+49,C,75.0,213,Barkov Aleksander,23,Not Injured
+50,C,70.0,165,Barre-Boulet Alex,22,Not Injured
+51,D,70.0,190,Barrie Tyson,27,Injured
+52,D,73.0,196,Bartkowski Matt,31,Not Injured
+53,C,72.0,187,Barzal Mathew,22,Not Injured
+54,RW,76.0,207,Bastian Nathan,21,Injured
+55,RW,73.0,187,Batherson Drake,21,Not Injured
+56,D,73.0,195,Bayreuther Gavin,25,Not Injured
+57,C,75.0,210,Beagle Jay,33,Injured
+58,D,73.0,173,Bean Jake,21,Not Injured
+59,D,71.0,198,Bear Ethan,22,Not Injured
+60,D,74.0,200,Beaulieu Nathan,26,Injured
+61,LW,71.0,182,Beauvillier Anthony,22,Not Injured
+62,LW,72.0,203,Beleskey Matt,31,Not Injured
+63,C,72.0,198,Bellemare Pierre-Edouard,34,Not Injured
+64,D,71.0,193,Belpedio Louie,23,Not Injured
+65,D,71.0,172,Bengtsson Lukas,25,Not Injured
+66,LW,74.0,205,Benn Jamie,29,Injured
+67,D,74.0,199,Benn Jordie,31,Not Injured
+68,C,73.0,195,Bennett Sam,23,Injured
+69,D,73.0,203,Benning Matt,25,Injured
+70,D,75.0,189,Benoit Simon,20,Not Injured
+71,C,73.0,195,Bergeron Patrice,33,Injured
+72,LW,76.0,219,Berglund Patrik,31,Injured
+73,G,72.0,184,Bernier Jonathan,30,Injured
+74,LW,72.0,190,Bertuzzi Tyler,24,Injured
+75,G,73.0,176,Berube Jean-Francois,27,Not Injured
+76,G,75.0,205,Bibeau Antoine,25,Not Injured
+77,D,70.0,199,Biega Alex,31,Not Injured
+78,D,73.0,197,Bieksa Kevin,38,Not Injured
+79,G,73.0,174,Binnington Jordan,25,Not Injured
+80,D,72.0,197,Bischoff Jake,24,Not Injured
+81,G,79.0,215,Bishop Ben,32,Injured
+82,C,73.0,199,Bishop Clark,23,Injured
+83,D,73.0,210,Bitetto Anthony,28,Not Injured
+84,LW,72.0,186,Bjork Anders,22,Not Injured
+85,RW,72.0,177,Bjorkstrand Oliver,24,Not Injured
+86,C,78.0,215,Bjugstad Nick,26,Injured
+87,C,69.0,190,Blackwell Colin,26,Not Injured
+88,G,76.0,225,Blackwood Mackenzie,22,Injured
+89,LW,74.0,205,Blais Sammy,23,Injured
+90,LW,72.0,182,Blandisi Joseph,24,Not Injured
+91,LW,72.0,201,Blidh Anton,24,Not Injured
+92,LW,72.0,185,Blueger Teddy,24,Not Injured
+93,G,74.0,182,Bobrovsky Sergei,30,Injured
+94,LW,72.0,210,Boedker Mikkel,29,Injured
+95,G,75.0,225,Boes Corbin,25,Not Injured
+96,RW,73.0,208,Boeser Brock,22,Injured
+97,D,75.0,221,Bogosian Zach,28,Injured
+98,RW,75.0,206,Boll Jared,33,Not Injured
+99,C,73.0,196,Bonino Nick,31,Not Injured
+100,LW,72.0,212,Booth David,34,Not Injured
+101,D,74.0,199,Borgen Will,22,Not Injured
+102,C,75.0,190,Borgstrom Henrik,21,Not Injured
+103,D,73.0,207,Borowiecki Mark,29,Injured
+104,D,76.0,216,Bortuzzo Robert,30,Injured
+105,D,74.0,192,Bouchard Evan,19,Not Injured
+106,LW,70.0,195,Boucher Reid,25,Not Injured
+107,LW,70.0,170,Bourke Troy,25,Not Injured
+108,LW,71.0,195,Bournival Michael,27,Not Injured
+109,LW,70.0,206,Bourque Gabriel,28,Not Injured
+110,G,75.0,187,Bouthillier Zachary,19,Not Injured
+111,D,76.0,206,Bouwmeester Jay,35,Injured
+112,G,76.0,210,Bow Landon,23,Not Injured
+113,D,74.0,198,Bowey Madison,24,Not Injured
+114,D,74.0,227,Boychuk Johnny,35,Injured
+115,C,71.0,185,Boyd Travis,25,Injured
+116,C,78.0,245,Boyle Brian,34,Injured
+117,G,73.0,197,Boyle Kevin,27,Not Injured
+118,C,73.0,199,Bozak Tyler,33,Injured
+119,C,71.0,181,Bracco Jeremy,22,Not Injured
+120,C,72.0,200,Bradley Matthew,22,Not Injured
+121,D,70.0,179,Brannstrom Erik,19,Not Injured
+122,C,73.0,202,Brassard Derick,31,Injured
+123,C,73.0,207,Brassart Brady,26,Not Injured
+124,LW,70.0,175,Bratt Jesper,20,Injured
+125,D,74.0,205,Braun Justin,32,Injured
+126,D,79.0,224,Breen Chris,30,Not Injured
+127,RW,72.0,203,Brickley Connor,27,Not Injured
+128,D,75.0,205,Brickley Daniel,24,Not Injured
+129,D,74.0,175,Brisebois Guillaume,21,Injured
+130,C,72.0,178,Broadhurst Alex,26,Not Injured
+131,D,73.0,185,Brodie T.J.,29,Not Injured
+132,D,73.0,198,Brodin Jonas,25,Not Injured
+133,C,74.0,205,Brodziak Kyle,35,Not Injured
+134,RW,73.0,208,Brodzinski Jonny,26,Injured
+135,C,71.0,180,Brooks Adam,23,Not Injured
+136,G,75.0,204,Brossoit Laurent,26,Injured
+137,RW,75.0,213,Brouwer Troy,33,Not Injured
+138,RW,72.0,183,Brown Connor,25,Not Injured
+139,RW,72.0,210,Brown Dustin,34,Injured
+140,RW,70.0,166,Brown J.T.,29,Not Injured
+141,D,77.0,225,Brown Joshua,25,Not Injured
+142,C,78.0,220,Brown Logan,21,Not Injured
+143,C,73.0,210,Brown Patrick,27,Not Injured
+144,D,77.0,225,Brown-DUP Josh,25,Not Injured
+145,D,69.0,175,Bryson Jacob,21,Not Injured
+146,RW,75.0,196,Buchnevich Pavel,24,Injured
+147,G,73.0,196,Budaj Peter,36,Not Injured
+148,LW,71.0,196,Bunting Michael,23,Not Injured
+149,LW,75.0,201,Burakovsky Andre,24,Not Injured
+150,D,73.0,207,Burgdoerfer Erik,30,Not Injured
+151,D,77.0,230,Burns Brent,34,Not Injured
+152,RW,73.0,197,Burrows Alexandre,38,Not Injured
+153,D,70.0,190,Butcher Will,24,Injured
+154,D,73.0,196,Butler Chris,32,Not Injured
+155,D,77.0,4,Byfuglien Dustin,34,Injured
+156,RW,69.0,163,Byron Paul,30,Injured
+157,RW,74.0,190,Caamano Nicholas,20,Not Injured
+158,C,70.0,176,Caggiula Drake,25,Injured
+159,RW,72.0,200,Calderone Tony,20,Not Injured
+160,RW,70.0,187,Callahan Ryan,34,Injured
+161,LW,71.0,186,Calvert Matt,29,Not Injured
+162,LW,69.0,185,Cammalleri Michael,37,Not Injured
+163,G,74.0,197,Campbell Jack,27,Injured
+164,G,73.0,205,Cannata Joe,29,Not Injured
+165,D,73.0,196,Capobianco Kyle,21,Injured
+166,C,73.0,200,Carey Paul,30,Not Injured
+167,D,77.0,212,Carlo Brandon,22,Injured
+168,D,75.0,218,Carlson John,29,Injured
+169,D,77.0,192,Carlsson Gabriel,22,Not Injured
+170,C,72.0,200,Carpenter Ryan,28,Injured
+171,LW,72.0,191,Carr Daniel,27,Not Injured
+172,D,71.0,192,Carrick Connor,25,Injured
+173,C,72.0,188,Carrick Sam,25,Not Injured
+174,D,71.0,174,Carrier Alexander,22,Not Injured
+175,LW,74.0,212,Carrier William,24,Injured
+176,C,75.0,219,Carter Jeff,34,Injured
+177,C,73.0,200,Cave Colby,24,Not Injured
+178,D,74.0,209,Ceci Cody,25,Injured
+179,LW,74.0,202,Cehlarik Peter,23,Injured
+180,D,76.0,225,Cernak Erik,22,Injured
+181,D,74.0,196,Chabot Thomas,22,Injured
+182,D,73.0,194,Chainey Jocktan,19,Not Injured
+183,C,74.0,199,Chaput Michael,27,Not Injured
+184,D,81.0,250,Chara Zdeno,42,Injured
+185,C,71.0,190,Chartier Rourke,23,Not Injured
+186,D,72.0,180,Chatfield Jalen,23,Not Injured
+187,D,74.0,185,Chelios Jake,28,Not Injured
+188,D,75.0,219,Chiarot Ben,28,Injured
+189,RW,76.0,208,Chiasson Alex,28,Injured
+190,RW,75.0,215,Chimera Jason,40,Not Injured
+191,C,73.0,196,Chlapik Filip,22,Not Injured
+192,D,73.0,165,Cholowski Dennis,21,Injured
+193,D,72.0,193,Chorney Taylor,32,Not Injured
+194,D,74.0,210,Chychrun Jakob,21,Injured
+195,C,74.0,208,Chytil Filip,19,Not Injured
+196,C,72.0,180,Cirelli Anthony,21,Not Injured
+197,C,71.0,195,Cizikas Casey,28,Injured
+198,D,73.0,196,Claesson Fredrik,26,Injured
+199,LW,70.0,180,Clark Emerson,26,Not Injured
+200,D,72.0,196,Clendening Adam,26,Not Injured
+201,LW,74.0,211,Clifford Kyle,28,Injured
+202,D,71.0,175,Clifton Connor,24,Not Injured
+203,LW,70.0,207,Clune Richard,32,Not Injured
+204,RW,71.0,216,Clutterbuck Cal,31,Injured
+205,D,77.0,223,Coburn Braydon,34,Injured
+206,C,70.0,177,Cogliano Andrew,32,Injured
+207,D,73.0,219,Cole Ian,30,Injured
+208,C,71.0,200,Coleman Blake,27,Injured
+209,LW,72.0,190,Colton Ross,22,Not Injured
+210,LW,73.0,200,Comeau Blake,33,Injured
+211,LW,72.0,193,Compher J.T.,24,Injured
+212,G,73.0,180,Comrie Eric,23,Not Injured
+213,LW,74.0,205,Comtois Maxime,20,Injured
+214,C,68.0,180,Conacher Cory,29,Not Injured
+215,G,74.0,197,Condon Mike,29,Not Injured
+216,RW,71.0,188,Condra Erik,32,Not Injured
+217,D,74.0,205,Connauton Kevin,29,Injured
+218,RW,75.0,195,Connolly Brett,27,Not Injured
+219,LW,73.0,182,Connor Kyle,22,Not Injured
+220,D,70.0,196,Cooper Brian,25,Not Injured
+221,G,76.0,200,Copley Pheonix,27,Not Injured
+222,C,73.0,206,Copp Andrew,24,Injured
+223,G,78.0,220,Coreau Jared,27,Not Injured
+224,C,74.0,198,Cornel Eric,23,Not Injured
+225,C,71.0,185,Cousins Nick,25,Not Injured
+226,C,73.0,200,Couture Logan,30,Not Injured
+227,C,75.0,211,Couturier Sean,26,Injured
+228,C,75.0,200,Coyle Charlie,27,Not Injured
+229,RW,74.0,218,Cracknell Adam,33,Not Injured
+230,C,72.0,192,Cramarossa Joseph,26,Not Injured
+231,G,74.0,216,Crawford Corey,34,Injured
+232,C,71.0,200,Crosby Sidney,31,Injured
+233,D,75.0,205,Cross Tommy,29,Not Injured
+234,LW,76.0,220,Crouse Lawson,22,Not Injured
+235,C,73.0,202,Cullen Matt,42,Injured
+236,RW,70.0,172,Currie Josh,26,Not Injured
+237,C,69.0,170,Czarnik Austin,26,Not Injured
+238,G,74.0,209,D'Orio Alex,20,Not Injured
+239,G,75.0,205,Daccord Joey,22,Not Injured
+240,RW,71.0,185,Dadonov Evgenii,30,Not Injured
+241,C,71.0,176,Dahlen Jonathan,21,Not Injured
+242,D,75.0,186,Dahlin Rasmus,19,Not Injured
+243,D,76.0,231,Dahlstrom Carl,24,Not Injured
+244,LW,75.0,204,Dal Colle Michael,23,Not Injured
+245,D,71.0,195,Daley Trevor,35,Injured
+246,C,74.0,194,Dalpe Zac,29,Not Injured
+247,C,73.0,198,Danault Phillip,26,Not Injured
+248,C,71.0,212,Dano Marko,24,Not Injured
+249,G,74.0,187,Dansk Oscar,25,Not Injured
+250,G,78.0,232,Darling Scott,30,Injured
+251,C,73.0,180,Dauphin Laurent,24,Not Injured
+252,D,74.0,208,Davidson Brandon,27,Injured
+253,D,71.0,180,Davies Jeremy,22,Not Injured
+254,D,73.0,195,de Haan Calvin,28,Injured
+255,C,75.0,210,de la Rose Jacob,24,Not Injured
+256,C,70.0,185,De Leo Chase,23,Not Injured
+257,C,71.0,175,Dea Jean-Sebastien,25,Not Injured
+258,D,71.0,180,DeAngelo Anthony,23,Not Injured
+259,LW,67.0,165,DeBrincat Alex,21,Not Injured
+260,LW,72.0,188,DeBrusk Jake,22,Injured
+261,D,75.0,192,DeKeyser Danny,29,Injured
+262,D,72.0,201,Del Zotto Michael,29,Not Injured
+263,G,74.0,208,Delia Collin,25,Not Injured
+264,G,72.0,205,Dell Aaron,30,Not Injured
+265,D,73.0,195,DeMelo Dylan,26,Injured
+266,D,73.0,195,Demers Jason,31,Injured
+267,G,76.0,192,Demko Thatcher,23,Injured
+268,D,72.0,204,Dermott Travis,22,Injured
+269,RW,68.0,172,DeSalvo Dan,27,Not Injured
+270,D,74.0,185,DeSimone Nick,24,Not Injured
+271,LW,73.0,221,Deslauriers Nicolas,28,Injured
+272,G,72.0,181,DeSmith Casey,27,Not Injured
+273,D,76.0,214,Despres Simon,27,Not Injured
+274,G,73.0,200,Desrosiers Philippe,23,Not Injured
+275,RW,72.0,200,Di Giuseppe Phillip,25,Not Injured
+276,C,71.0,188,Di Pauli Thomas,25,Not Injured
+277,C,74.0,200,Dickinson Jason,24,Injured
+278,D,76.0,225,Dillon Brenden,28,Not Injured
+279,G,72.0,192,DiPietro Michael,20,Not Injured
+280,D,72.0,198,Dirk Jagger,26,Not Injured
+281,D,72.0,169,Djoos Christian,24,Injured
+282,C,70.0,193,Domi Max,24,Not Injured
+283,G,75.0,210,Domingue Louis,27,Injured
+284,C,72.0,193,Donato Ryan,23,Not Injured
+285,D,73.0,205,Donovan Matt,29,Not Injured
+286,RW,72.0,190,Donskoi Joonas,27,Not Injured
+287,G,73.0,165,Dostal Lukas,19,Not Injured
+288,C,70.0,172,Dostie Alex,22,Not Injured
+289,D,75.0,210,Dotchin Jake,25,Not Injured
+290,D,73.0,185,Dougherty Jack,23,Not Injured
+291,D,73.0,202,Doughty Drew,29,Not Injured
+292,C,74.0,197,Dowd Nic,29,Not Injured
+293,C,70.0,180,Dowling Justin,28,Injured
+294,C,74.0,208,Draisaitl Leon,23,Not Injured
+295,D,73.0,190,Drew Hunter,20,Not Injured
+296,C,69.0,185,Dries Sheldon,25,Not Injured
+297,LW,72.0,193,Drouin Jonathan,24,Not Injured
+298,LW,70.0,183,Dube Dillon,20,Injured
+299,C,74.0,205,Dubinsky Brandon,33,Injured
+300,G,78.0,224,Dubnyk Devan,33,Not Injured
+301,C,75.0,207,Dubois Pierre-Luc,21,Not Injured
+302,RW,72.0,179,Ducharme Justin,19,Not Injured
+303,C,71.0,195,Duchene Matt,28,Injured
+304,LW,71.0,191,Duclair Anthony,23,Not Injured
+305,D,72.0,182,Dumba Mathew,24,Not Injured
+306,D,76.0,207,Dumoulin Brian,27,Injured
+307,D,72.0,203,Dunn Vince,22,Injured
+308,D,72.0,189,Durzi Sean,20,Not Injured
+309,C,72.0,195,Dvorak Christian,23,Injured
+310,LW,72.0,190,Dzingel Ryan,27,Injured
+311,C,72.0,190,Eakin Cody,28,Injured
+312,RW,71.0,203,Eaves Patrick,35,Injured
+313,RW,71.0,187,Eberle Jordan,29,Injured
+314,D,75.0,212,Edler Alexander,33,Injured
+315,D,76.0,215,Edmundson Joel,26,Injured
+316,LW,72.0,172,Ehlers Nikolaj,23,Injured
+317,C,74.0,193,Ehn Christoffer,23,Not Injured
+318,C,74.0,206,Eichel Jack,22,Injured
+319,D,76.0,220,Ekblad Aaron,23,Not Injured
+320,D,76.0,215,Ekholm Mattias,29,Not Injured
+321,D,74.0,200,Ekman-Larsson Oliver,27,Injured
+322,LW,73.0,215,Elie Remi,24,Not Injured
+323,C,74.0,207,Eller Lars,30,Injured
+324,G,74.0,209,Elliott Brian,34,Injured
+325,D,73.0,190,Elliott Stefan,28,Not Injured
+326,D,70.0,180,Ellis Ryan,28,Not Injured
+327,C,78.0,194,Elynuik Hudson,21,Not Injured
+328,D,74.0,218,Emelin Alexei,33,Not Injured
+329,D,74.0,214,Engelland Deryk,37,Injured
+330,D,75.0,189,Englund Andreas,23,Not Injured
+331,LW,69.0,161,Ennis Tyler,29,Injured
+332,D,70.0,180,Enstrom Toby,34,Not Injured
+333,D,76.0,220,Ericsson Jonathan,35,Injured
+334,LW,74.0,179,Eriksson Loui,33,Not Injured
+335,C,73.0,208,Eriksson Ek Joel,22,Injured
+336,G,73.0,180,Eriksson Ek Olle,20,Not Injured
+337,LW,73.0,214,Erne Adam,24,Injured
+338,C,72.0,196,Estephan Giorgio,22,Not Injured
+339,RW,73.0,212,Etem Emerson,27,Not Injured
+340,LW,70.0,190,Fabbri Robby,23,Injured
+341,D,73.0,193,Fabbro Dante,21,Not Injured
+342,C,75.0,220,Faksa Radek,25,Injured
+343,D,77.0,224,Falk Justin,30,Injured
+344,D,72.0,206,Fantenberg Oscar,27,Injured
+345,RW,75.0,205,Fasching Hudson,23,Not Injured
+346,RW,73.0,192,Fast Jesper,27,Injured
+347,D,72.0,217,Faulk Justin,27,Not Injured
+348,G,73.0,189,Fazio Justin,22,Not Injured
+349,D,73.0,201,Fedun Taylor,31,Not Injured
+350,C,76.0,209,Fehr Eric,33,Not Injured
+351,LW,72.0,194,Ferguson Brady,24,Not Injured
+352,G,73.0,192,Ferguson Dylan,20,Not Injured
+353,LW,73.0,217,Ferland Micheal,27,Injured
+354,LW,70.0,193,Fiala Kevin,22,Not Injured
+355,C,72.0,196,Filppula Valtteri,35,Injured
+356,RW,74.0,214,Fischer Christian,22,Not Injured
+357,C,69.0,172,Fitzgerald Ryan,24,Not Injured
+358,G,75.0,206,Fitzpatrick Evan,21,Not Injured
+359,D,75.0,221,Fleury Haydn,22,Injured
+360,G,74.0,180,Fleury Marc-Andre,34,Injured
+361,D,73.0,163,Flower Walter,20,Not Injured
+362,LW,73.0,183,Flynn Brian,30,Not Injured
+363,LW,74.0,198,Foegele Warren,23,Not Injured
+364,RW,75.0,212,Fogarty Steven,26,Not Injured
+365,LW,72.0,185,Foley Erik,22,Not Injured
+366,LW,75.0,228,Foligno Marcus,27,Not Injured
+367,LW,72.0,202,Foligno Nick,31,Not Injured
+368,D,75.0,204,Folin Christian,28,Not Injured
+369,RW,72.0,185,Foo Spencer,25,Not Injured
+370,D,75.0,209,Foote Callan,20,Not Injured
+371,LW,75.0,187,Foote Nolan,18,Not Injured
+372,D,76.0,216,Forbort Derek,27,Not Injured
+373,LW,74.0,174,Formenton Alex,19,Injured
+374,D,74.0,200,Forney Chris,24,Not Injured
+375,C,73.0,184,Forsbacka Karlsson Jakob,22,Not Injured
+376,G,75.0,192,Forsberg Anton,26,Not Injured
+377,LW,73.0,205,Forsberg Filip,24,Injured
+378,D,72.0,186,Forsling Gustav,23,Injured
+379,C,72.0,172,Fortin Alexandre,22,Not Injured
+380,D,74.0,206,Fowler Cam,27,Injured
+381,G,72.0,179,Francouz Pavel,29,Not Injured
+382,D,74.0,192,Fraser Cole,20,Not Injured
+383,C,74.0,203,Frederic Trent,21,Not Injured
+384,D,70.0,192,Friedman Mark,23,Not Injured
+385,C,71.0,192,Fritz Tanner,27,Injured
+386,RW,73.0,205,Frk Martin,25,Not Injured
+387,C,73.0,202,Froese Byron,28,Not Injured
+388,RW,73.0,190,Frolik Michael,31,Injured
+389,G,75.0,183,Fulcher Kaden,20,Not Injured
+390,LW,73.0,205,Gaborik Marian,37,Injured
+391,RW,76.0,212,Gabriel Kurtis,26,Injured
+392,LW,71.0,204,Gabrielle Jesse,22,Not Injured
+393,LW,74.0,201,Gadjovich Jonah,20,Not Injured
+394,LW,71.0,200,Gagner Sam,29,Not Injured
+395,C,73.0,207,Galchenyuk Alex,25,Injured
+396,RW,69.0,184,Gallagher Brendan,27,Not Injured
+397,C,73.0,185,Gallant Zachary,20,Not Injured
+398,C,70.0,196,Gambardella Joe,25,Not Injured
+399,C,72.0,195,Gambrell Dylan,22,Not Injured
+400,D,74.0,203,Gardiner Jake,29,Injured
+401,RW,70.0,165,Garland Conor,23,Not Injured
+402,D,73.0,218,Garrison Jason,34,Not Injured
+403,C,75.0,205,Gaudet Tyler,26,Not Injured
+404,LW,73.0,184,Gaudette Adam,22,Not Injured
+405,C,72.0,179,Gaudreau Frederick,26,Not Injured
+406,LW,69.0,165,Gaudreau Johnny,25,Not Injured
+407,C,74.0,217,Gaunce Brendan,25,Not Injured
+408,D,73.0,210,Gaunce Cameron,29,Not Injured
+409,C,77.0,235,Gauthier Frederik,24,Injured
+410,D,75.0,205,Gavrikov Vladislav,23,Not Injured
+411,C,73.0,191,Gawdin Glenn,22,Not Injured
+412,G,73.0,179,Georgiev Alexandar,23,Not Injured
+413,LW,64.0,176,Gerbe Nathan,31,Not Injured
+414,C,71.0,175,Gersich Shane,22,Not Injured
+415,LW,78.0,221,Gettinger Tim,21,Not Injured
+416,C,76.0,225,Getzlaf Ryan,34,Injured
+417,C,68.0,175,Gibbons Brian,31,Injured
+418,G,73.0,205,Gibson Christopher,26,Not Injured
+419,G,74.0,206,Gibson John,25,Injured
+420,C,71.0,172,Gignac Brandon,21,Not Injured
+421,D,74.0,199,Gilbert Dennis,22,Not Injured
+422,G,77.0,216,Gillies Jon,25,Not Injured
+423,C,70.0,170,Gilmour Brady,20,Not Injured
+424,D,72.0,195,Gilmour John,26,Not Injured
+425,RW,67.0,178,Gionta Brian,40,Not Injured
+426,C,66.0,177,Gionta Stephen,35,Not Injured
+427,D,73.0,200,Giordano Mark,35,Not Injured
+428,D,70.0,162,Girard Samuel,21,Not Injured
+429,D,73.0,212,Girardi Dan,35,Injured
+430,LW,74.0,207,Girgensons Zemgus,25,Injured
+431,C,71.0,185,Giroux Claude,31,Not Injured
+432,LW,73.0,213,Glass Tanner,35,Not Injured
+433,D,73.0,180,Gleason Ben,21,Not Injured
+434,C,71.0,192,Glendening Luke,30,Not Injured
+435,C,70.0,175,Glotov Vasily,21,Not Injured
+436,RW,72.0,165,Gogolev Pavel,19,Not Injured
+437,LW,71.0,196,Goldobin Nikolay,23,Not Injured
+438,D,71.0,185,Goligoski Alex,33,Injured
+439,LW,70.0,160,Golod Maxim,18,Not Injured
+440,D,73.0,200,Goloubef Cody,29,Not Injured
+441,RW,74.0,215,Goodrow Barclay,26,Not Injured
+442,D,79.0,227,Gordeev Fedor,20,Not Injured
+443,D,73.0,204,Gorges Josh,34,Not Injured
+444,D,71.0,180,Gostisbehere Shayne,26,Injured
+445,LW,72.0,199,Goulbourne Tyrell,25,Not Injured
+446,C,69.0,172,Gourde Yanni,27,Not Injured
+447,RW,73.0,188,Grabner Michael,31,Injured
+448,C,71.0,186,Grabovski Mikhail,35,Not Injured
+449,D,72.0,176,Graham Jesse,25,Not Injured
+450,C,72.0,180,Granlund Markus,26,Not Injured
+451,RW,70.0,185,Granlund Mikael,27,Not Injured
+452,C,75.0,215,Grant Derek,29,Injured
+453,C,77.0,208,Graovac Tyler,26,Not Injured
+454,D,76.0,211,Gravel Kevin,27,Not Injured
+455,D,77.0,226,Graves Ryan,24,Not Injured
+456,RW,70.0,172,Greco Anthony,25,Not Injured
+457,D,73.0,207,Green Mike,33,Injured
+458,D,71.0,190,Greene Andy,36,Not Injured
+459,LW,74.0,210,Greening Colin,33,Not Injured
+460,LW,78.0,227,Greenway Jordan,22,Not Injured
+461,LW,75.0,210,Greer A.J.,22,Not Injured
+462,C,72.0,194,Gregoire Jeremy,23,Not Injured
+463,G,74.0,232,Greiss Thomas,33,Not Injured
+464,C,66.0,180,Grimaldi Rocco,26,Injured
+465,D,74.0,183,Groleau Jeremy,19,Not Injured
+466,G,73.0,185,Grosenick Troy,29,Not Injured
+467,C,73.0,192,Groulx Benoit-Olivier,19,Not Injured
+468,G,73.0,191,Grubauer Philipp,27,Not Injured
+469,LW,72.0,201,Grundstrom Carl,21,Not Injured
+470,D,76.0,222,Gryba Eric,31,Not Injured
+471,D,69.0,174,Grzelcyk Matt,25,Injured
+472,D,71.0,176,Guay Nicolas,20,Not Injured
+473,D,72.0,204,Gudas Radko,29,Not Injured
+474,D,74.0,229,Gudbranson Alexander,24,Not Injured
+475,D,77.0,217,Gudbranson Erik,27,Injured
+476,LW,71.0,180,Guentzel Jake,24,Not Injured
+477,D,74.0,197,Guhle Brendan,21,Injured
+478,D,74.0,198,Gunnarsson Carl,32,Injured
+479,RW,75.0,195,Gurianov Denis,22,Not Injured
+480,LW,71.0,181,Gusev Nikita,26,Not Injured
+481,D,72.0,197,Gustafsson Erik,27,Not Injured
+482,G,74.0,185,Gustavsson Filip,21,Not Injured
+483,LW,71.0,186,Hagelin Carl,30,Injured
+484,D,74.0,204,Hagg Robert,24,Not Injured
+485,D,75.0,205,Hainsey Ron,38,Not Injured
+486,D,74.0,196,Hajek Libor,21,Injured
+487,G,71.0,185,Halak Jaroslav,34,Not Injured
+488,C,71.0,205,Haley Micheal,33,Not Injured
+489,LW,73.0,205,Hall Taylor,27,Injured
+490,D,73.0,204,Hamhuis Dan,36,Injured
+491,D,78.0,229,Hamilton Dougie,26,Not Injured
+492,C,73.0,195,Hamilton Freddie,27,Not Injured
+493,C,71.0,182,Hamilton Wacey,28,Not Injured
+494,G,74.0,215,Hammond Andrew,31,Not Injured
+495,D,74.0,205,Hamonic Travis,28,Injured
+496,D,75.0,215,Hanifin Noah,22,Not Injured
+497,D,71.0,191,Hanley Joel,28,Not Injured
+498,D,71.0,200,Hanna Shane,25,Not Injured
+499,LW,73.0,200,Hannikainen Markus,26,Injured
+500,RW,73.0,198,Hansen Jannik,33,Not Injured
+501,D,73.0,185,Hansson Niklas,24,Not Injured
+502,C,78.0,230,Hanzal Martin,32,Injured
+503,D,78.0,222,Harpur Ben,24,Injured
+504,D,74.0,207,Harrington Scott,26,Injured
+505,G,74.0,181,Hart Carter,20,Injured
+506,RW,72.0,181,Hartman Ryan,24,Not Injured
+507,LW,74.0,215,Hartnell Scott,37,Not Injured
+508,RW,74.0,210,Hathaway Garnet,27,Not Injured
+509,C,72.0,193,Haula Erik,28,Injured
+510,C,71.0,196,Hawryluk Jayce,23,Injured
+511,RW,75.0,215,Hayden John,24,Not Injured
+512,RW,77.0,215,Hayes Jimmy,29,Not Injured
+513,C,77.0,216,Hayes Kevin,27,Injured
+514,C,73.0,190,Hayton Barrett,19,Not Injured
+515,D,76.0,225,Heatherington Dillon,24,Not Injured
+516,D,78.0,223,Hedman Victor,28,Injured
+517,D,71.0,180,Heed Tim,28,Not Injured
+518,C,73.0,188,Heinen Danton,23,Not Injured
+519,D,73.0,185,Heiskanen Miro,19,Not Injured
+520,LW,74.0,205,Helewka Adam,23,Not Injured
+521,G,76.0,207,Hellebuyck Connor,26,Not Injured
+522,LW,72.0,196,Helm Darren,32,Injured
+523,RW,72.0,177,Hemsky Ales,35,Not Injured
+524,C,72.0,211,Hendricks Matt,38,Injured
+525,C,72.0,197,Henrique Adam,29,Not Injured
+526,C,74.0,215,Hertl Tomas,25,Injured
+527,D,68.0,175,Hicketts Joe,23,Not Injured
+528,D,72.0,183,Hickey Thomas,30,Injured
+529,RW,71.0,181,Highmore Matthew,23,Not Injured
+530,G,78.0,202,Hill Adin,23,Not Injured
+531,C,69.0,173,Hinostroza Vinnie,25,Injured
+532,LW,75.0,215,Hintz Roope,22,Not Injured
+533,LW,70.0,165,Hirose Taro,23,Not Injured
+534,C,73.0,175,Hischier Nico,20,Injured
+535,D,75.0,197,Hjalmarsson Niklas,32,Not Injured
+536,RW,72.0,173,Ho-Sang Josh,23,Not Injured
+537,LW,72.0,180,Hoffman Mike,29,Not Injured
+538,G,77.0,209,Hogberg Marcus,24,Not Injured
+539,D,76.0,201,Hogstrom Marcus,30,Not Injured
+540,D,76.0,214,Holden Nick,32,Not Injured
+541,D,76.0,205,Holl Justin,27,Not Injured
+542,C,74.0,205,Holland Peter,28,Not Injured
+543,D,70.0,165,Hollowell Mac,20,Not Injured
+544,G,74.0,211,Holtby Braden,29,Injured
+545,D,75.0,206,Holzer Korbinian,31,Injured
+546,D,71.0,180,Honka Julius,23,Not Injured
+547,RW,71.0,189,Hornqvist Patric,32,Injured
+548,C,72.0,215,Horvat Bo,24,Not Injured
+549,G,73.0,218,Howard Jimmy,35,Injured
+550,C,75.0,195,Howden Brett,21,Injured
+551,LW,74.0,197,Hrivik Marek,27,Not Injured
+552,D,72.0,163,Hronek Filip,21,Not Injured
+553,LW,73.0,200,Huberdeau Jonathan,26,Not Injured
+554,LW,70.0,196,Hudon Charles,25,Not Injured
+555,D,70.0,175,Hughes Quinn,19,Injured
+556,D,69.0,187,Hunt Brad,30,Not Injured
+557,LW,72.0,201,Hunt Dryden,23,Not Injured
+558,D,71.0,200,Hunwick Matt,34,Injured
+559,G,75.0,205,Husso Ville,24,Not Injured
+560,G,75.0,202,Hutchinson Michael,29,Not Injured
+561,D,74.0,206,Hutton Ben,26,Injured
+562,G,73.0,202,Hutton Carter,33,Injured
+563,RW,71.0,160,Hyka Tomas,26,Not Injured
+564,LW,73.0,209,Hyman Zach,27,Injured
+565,LW,72.0,188,Iafallo Alex,25,Not Injured
+566,LW,73.0,214,Imama Bokondji,22,Not Injured
+567,G,73.0,212,Ingram Connor,22,Not Injured
+568,D,73.0,207,Irwin Matt,31,Not Injured
+569,D,74.0,200,Jacobs Josh,23,Not Injured
+570,C,76.0,212,Jankowski Mark,24,Not Injured
+571,C,73.0,195,Janmark Mattias,26,Not Injured
+572,D,74.0,209,Jardine Sam,25,Not Injured
+573,C,71.0,186,Jarnkrok Calle,27,Injured
+574,D,75.0,201,Jaros Christian,23,Injured
+575,G,74.0,194,Jarry Tristan,24,Not Injured
+576,RW,73.0,172,Jasek Lukas,21,Not Injured
+577,RW,74.0,216,Jaskin Dmitrij,26,Not Injured
+578,LW,74.0,207,Jeannot Tanner,22,Not Injured
+579,C,74.0,206,Jenner Boone,26,Injured
+580,D,72.0,194,Jensen Nick,28,Not Injured
+581,D,71.0,200,Jerabek Jakub,27,Not Injured
+582,C,75.0,218,Johansen Ryan,26,Not Injured
+583,LW,73.0,205,Johansson Marcus,28,Injured
+584,D,76.0,225,Johns Stephen,27,Injured
+585,LW,72.0,174,Johnson Adam,25,Not Injured
+586,G,73.0,205,Johnson Cam,24,Not Injured
+587,G,75.0,197,Johnson Chad,33,Injured
+588,D,76.0,225,Johnson Erik,31,Injured
+589,D,73.0,227,Johnson Jack,32,Not Injured
+590,C,71.0,179,Johnson Luke,24,Not Injured
+591,C,68.0,183,Johnson Tyler,28,Injured
+592,LW,70.0,181,Johnsson Andreas,24,Injured
+593,LW,77.0,235,Johnston Ross,25,Not Injured
+594,D,72.0,193,Jokiharju Henri,20,Not Injured
+595,LW,72.0,191,Jokinen Jussi,36,Not Injured
+596,D,73.0,194,Jones Caleb,22,Not Injured
+597,G,76.0,190,Jones Martin,29,Not Injured
+598,LW,75.0,210,Jones Max,21,Not Injured
+599,D,76.0,210,Jones Seth,24,Injured
+600,RW,73.0,197,Jooris Josh,28,Not Injured
+601,RW,73.0,190,Joseph Mathieu,22,Injured
+602,D,73.0,201,Josi Roman,29,Not Injured
+603,C,71.0,191,Jost Tyson,21,Injured
+604,LW,74.0,188,Jurco Tomas,26,Not Injured
+605,D,74.0,174,Juulsen Noah,22,Injured
+606,C,72.0,192,Kadri Nazem,28,Injured
+607,C,71.0,175,Kahun Dominik,24,Not Injured
+608,C,74.0,194,Kamenev Vladislav,22,Injured
+609,C,74.0,188,Kampf David,24,Injured
+610,D,71.0,198,Kampfer Steven,30,Not Injured
+611,LW,74.0,210,Kane Evander,27,Injured
+612,RW,70.0,177,Kane Patrick,30,Not Injured
+613,RW,73.0,192,Kapanen Kasperi,22,Injured
+614,D,72.0,190,Karlsson Erik,29,Injured
+615,C,72.0,180,Karlsson Melker,28,Injured
+616,C,73.0,189,Karlsson William,26,Not Injured
+617,RW,71.0,186,Kase Ondrej,23,Injured
+618,G,75.0,194,Kaskisuo Kasimir,25,Not Injured
+619,RW,75.0,211,Kassian Zack,28,Injured
+620,LW,73.0,183,Katchouk Boris,21,Not Injured
+621,D,72.0,195,Keeper Brady,23,Not Injured
+622,D,73.0,192,Keith Duncan,35,Not Injured
+623,RW,70.0,170,Keller Clayton,20,Not Injured
+624,C,72.0,190,Kelly Chris,38,Not Injured
+625,C,74.0,201,Kempe Adrian,22,Injured
+626,RW,72.0,185,Kempe Mario,30,Injured
+627,D,72.0,194,Kempny Michal,28,Injured
+628,C,70.0,175,Kerfoot Alexander,24,Injured
+629,C,72.0,185,Kero Tanner,26,Not Injured
+630,C,74.0,206,Kesler Ryan,34,Injured
+631,RW,72.0,202,Kessel Phil,31,Not Injured
+632,RW,73.0,185,Kestner Josh,25,Not Injured
+633,G,74.0,185,Keyser Kyle,20,Not Injured
+634,LW,76.0,212,Khaira Jujhar,24,Injured
+635,G,71.0,200,Khudobin Anton,33,Not Injured
+636,G,74.0,201,Kielly Jake,22,Not Injured
+637,LW,73.0,196,Killorn Alex,29,Not Injured
+638,G,75.0,195,Kinkaid Keith,30,Not Injured
+639,LW,75.0,183,Kirkland Justin,22,Not Injured
+640,D,72.0,207,Kiselevich Bogdan,29,Injured
+641,G,74.0,184,Kivlenieks Matiss,22,Not Injured
+642,D,75.0,216,Klefbom Oscar,25,Injured
+643,D,74.0,180,Klingberg John,26,Injured
+644,RW,69.0,182,Kloos Justin,25,Not Injured
+645,RW,74.0,195,Knight Corban,28,Injured
+646,D,74.0,193,Koekkoek Slater,25,Not Injured
+647,C,75.0,219,Koivu Mikko,36,Injured
+648,RW,71.0,209,Komarov Leo,32,Not Injured
+649,C,70.0,175,Konecny Travis,22,Not Injured
+650,C,75.0,225,Kopitar Anze,31,Not Injured
+651,G,73.0,185,Korenar Josef,21,Not Injured
+652,G,75.0,182,Korpisalo Joonas,25,Not Injured
+653,G,79.0,202,Koskinen Mikko,30,Not Injured
+654,C,70.0,180,Kossila Kalle,26,Not Injured
+655,RW,75.0,212,Kostin Klim,20,Not Injured
+656,C,74.0,184,Kotkaniemi Jesperi,18,Not Injured
+657,LW,75.0,222,Kovalchuk Ilya,36,Injured
+658,RW,72.0,209,Kovar Jan,29,Not Injured
+659,D,73.0,185,Kral Filip,19,Not Injured
+660,LW,75.0,216,Kreider Chris,28,Injured
+661,C,72.0,188,Krejci David,33,Not Injured
+662,D,72.0,194,Kronwall Niklas,38,Not Injured
+663,D,69.0,186,Krug Torey,28,Injured
+664,C,72.0,186,Kruger Marcus,29,Injured
+665,RW,71.0,178,Kucherov Nikita,26,Not Injured
+666,G,77.0,215,Kuemper Darcy,29,Injured
+667,LW,73.0,195,Kuffner Ryan,23,Not Injured
+668,RW,71.0,185,Kuhlman Karson,23,Not Injured
+669,RW,74.0,196,Kuhnhackl Tom,27,Not Injured
+670,D,74.0,186,Kukan Dean,25,Not Injured
+671,D,74.0,187,Kulak Brett,25,Not Injured
+672,LW,73.0,228,Kulemin Nikolay,32,Not Injured
+673,D,73.0,204,Kulikov Dmitry,28,Injured
+674,C,72.0,195,Kunin Luke,21,Injured
+675,LW,72.0,188,Kunitz Chris,39,Not Injured
+676,C,73.0,195,Kuokkanen Janne,21,Not Injured
+677,C,74.0,213,Kuraly Sean,26,Injured
+678,C,74.0,204,Kuznetsov Evgeny,27,Injured
+679,D,72.0,183,Kylington Oliver,22,Not Injured
+680,C,72.0,175,Kyrou Jordan,21,Not Injured
+681,C,74.0,208,L'Esperance Joel,23,Not Injured
+682,RW,71.0,185,Labanc Kevin,23,Not Injured
+683,RW,73.0,182,Laberge Pascal,21,Not Injured
+684,LW,74.0,200,Laberge Samuel,22,Not Injured
+685,D,72.0,197,LaBlanc Stefan,23,Not Injured
+686,D,71.0,190,Labrie Hubert,27,Not Injured
+687,G,76.0,187,Lack Eddie,31,Not Injured
+688,LW,75.0,192,Ladd Andrew,33,Injured
+689,D,74.0,200,LaDue Paul,26,Injured
+690,C,73.0,195,Lafferty Sam,24,Not Injured
+691,G,74.0,190,Lagace Maxime,26,Not Injured
+692,RW,77.0,206,Laine Patrik,21,Not Injured
+693,D,73.0,183,Lajoie Max,21,Not Injured
+694,D,73.0,184,Lalonde Owen,19,Not Injured
+695,RW,74.0,191,Lammikko Juho,23,Not Injured
+696,LW,73.0,215,Landeskog Gabriel,26,Injured
+697,LW,70.0,176,Lane Matt,25,Not Injured
+698,G,74.0,185,Lankinen Kevin,24,Not Injured
+699,RW,73.0,174,Lappin Nick,26,Not Injured
+700,RW,73.0,198,Larkin Dylan,22,Injured
+701,D,75.0,208,Larsson Adam,26,Not Injured
+702,G,74.0,185,Larsson Filip,20,Not Injured
+703,D,74.0,197,Larsson Jacob,22,Injured
+704,C,71.0,198,Larsson Johan,26,Injured
+705,D,75.0,221,Lashoff Brian,28,Not Injured
+706,C,73.0,190,Laughton Scott,25,Not Injured
+707,LW,73.0,172,Lauko Jakub,19,Not Injured
+708,D,73.0,204,Lauzon Jeremy,22,Not Injured
+709,C,72.0,209,Lazar Curtis,24,Not Injured
+710,D,72.0,207,Leddy Nick,28,Not Injured
+711,LW,75.0,231,Lee Anders,29,Not Injured
+712,LW,72.0,177,Lehkonen Artturi,24,Not Injured
+713,G,76.0,240,Lehner Robin,27,Injured
+714,C,74.0,212,Lehtera Jori,31,Not Injured
+715,G,76.0,209,Lehtonen Kari,35,Not Injured
+716,LW,70.0,174,Leier Taylor,25,Not Injured
+717,LW,70.0,179,Leipsic Brendan,25,Injured
+718,LW,74.0,192,Leivo Josh,26,Injured
+719,LW,73.0,210,Lemieux Brendan,23,Not Injured
+720,D,72.0,201,Letang Kris,32,Injured
+721,C,70.0,195,Letestu Mark,34,Not Injured
+722,C,70.0,187,Lettieri Vinni,24,Not Injured
+723,C,74.0,155,Letunov Maxim,23,Not Injured
+724,D,72.0,194,Lewington Tyler,24,Not Injured
+725,C,73.0,202,Lewis Trevor,32,Injured
+726,RW,73.0,176,Lind Kole,20,Not Injured
+727,C,73.0,202,Lindberg Oscar,27,Not Injured
+728,RW,75.0,217,Lindberg Tobias,23,Not Injured
+729,LW,73.0,191,Lindblom Oskar,22,Not Injured
+730,D,75.0,215,Lindell Esa,25,Not Injured
+731,G,74.0,190,Lindgren Charlie,25,Not Injured
+732,D,72.0,165,Lindgren Jesper,22,Not Injured
+733,D,72.0,201,Lindgren Ryan,21,Not Injured
+734,D,71.0,191,Lindholm Anton,24,Not Injured
+735,C,73.0,195,Lindholm Elias,24,Not Injured
+736,D,75.0,211,Lindholm Hampus,25,Injured
+737,C,72.0,183,Lindholm Par,27,Not Injured
+738,C,72.0,165,Lipanov Alexei,19,Not Injured
+739,C,72.0,191,Little Bryan,31,Not Injured
+740,C,69.0,170,Lizotte Blake,21,Not Injured
+741,LW,69.0,187,Lomberg Ryan,24,Not Injured
+742,RW,69.0,170,Lorito Matt,29,Not Injured
+743,D,73.0,205,Lovejoy Ben,35,Injured
+744,C,77.0,210,Lowry Adam,26,Injured
+745,LW,75.0,231,Lucic Milan,31,Injured
+746,RW,74.0,196,Luff Matt,22,Not Injured
+747,C,72.0,185,Lundestrom Isac,19,Not Injured
+748,G,73.0,180,Lundqvist Henrik,37,Not Injured
+749,G,75.0,215,Luongo Roberto,40,Injured
+750,G,77.0,209,Luukkonen Ukko-Pekka,20,Not Injured
+751,C,73.0,205,Lynch Kevin,28,Not Injured
+752,G,73.0,198,Lyon Alex,26,Injured
+753,D,74.0,201,Lyubushkin Ilya,25,Not Injured
+754,D,72.0,173,Lyytinen Joonas,24,Not Injured
+755,D,74.0,206,Maatta Olli,24,Injured
+756,D,75.0,203,MacDermid Kurtis,25,Injured
+757,D,73.0,204,MacDonald Andrew,32,Injured
+758,D,72.0,208,MacDonald Jacob,26,Not Injured
+759,LW,74.0,190,MacEachern Mackenzie,25,Not Injured
+760,C,75.0,198,MacEwen Zack,22,Not Injured
+761,C,71.0,177,MacKenzie Derek,38,Injured
+762,C,72.0,205,MacKinnon Nathan,23,Not Injured
+763,RW,76.0,207,Maenalanen Saku,25,Not Injured
+764,C,70.0,190,Magwood Zach,21,Not Injured
+765,D,73.0,192,Mahura Josh,21,Not Injured
+766,D,71.0,179,Makar Cale,20,Not Injured
+767,C,69.0,177,Malgin Denis,22,Injured
+768,C,75.0,195,Malkin Evgeni,32,Injured
+769,LW,74.0,207,Malone Brad,30,Not Injured
+770,LW,72.0,197,Malone Sean,24,Not Injured
+771,RW,74.0,201,Mamin Maxim,24,Not Injured
+772,LW,70.0,184,Mangiapane Andrew,23,Not Injured
+773,D,73.0,205,Manning Brandon,29,Not Injured
+774,D,75.0,216,Manson Josh,27,Injured
+775,RW,77.0,225,Mantha Anthony,24,Injured
+776,LW,69.0,181,Marchand Brad,31,Injured
+777,C,69.0,174,Marchessault Jonathan,28,Not Injured
+778,D,77.0,213,Marincin Martin,27,Not Injured
+779,RW,70.0,185,Markison Colin,26,Not Injured
+780,G,78.0,206,Markstrom Jacob,29,Not Injured
+781,C,74.0,218,Marleau Patrick,39,Not Injured
+782,RW,72.0,175,Marner Mitchell,22,Not Injured
+783,C,72.0,190,Marody Cooper,22,Not Injured
+784,LW,75.0,225,Maroon Patrick,31,Injured
+785,LW,68.0,162,Martel Danick,24,Not Injured
+786,D,79.0,220,Martenet Chris,22,Not Injured
+787,LW,75.0,220,Martin Matt,30,Injured
+788,D,73.0,200,Martin Paul,38,Not Injured
+789,D,73.0,209,Martinez Alec,31,Injured
+790,LW,72.0,196,Martinook Jordan,26,Not Injured
+791,C,75.0,229,Martinsen Andreas,29,Injured
+792,LW,69.0,197,Mascherin Adam,21,Not Injured
+793,D,74.0,189,Masin Dominik,23,Not Injured
+794,G,76.0,210,Mason Steve,31,Not Injured
+795,D,74.0,193,Matheson Michael,25,Not Injured
+796,RW,74.0,220,Matteau Stefan,25,Not Injured
+797,C,75.0,223,Matthews Auston,21,Injured
+798,LW,76.0,231,Matthias Shawn,31,Not Injured
+799,D,77.0,223,Mayfield Scott,26,Not Injured
+800,G,76.0,187,Mazanec Marek,27,Not Injured
+801,G,75.0,195,McAdam Eamon,24,Not Injured
+802,D,72.0,208,McAvoy Charlie,21,Injured
+803,D,73.0,210,McCabe Jake,25,Injured
+804,C,73.0,185,McCann Jared,23,Injured
+805,G,74.0,220,McCollum Thomas,29,Not Injured
+806,C,71.0,185,McCormick Max,27,Injured
+807,D,75.0,217,McCoshen Ian,23,Not Injured
+808,C,73.0,193,McDavid Connor,22,Not Injured
+809,D,73.0,215,McDonagh Ryan,30,Not Injured
+810,G,74.0,203,McElhinney Curtis,36,Injured
+811,D,74.0,203,McEneny Evan,25,Not Injured
+812,LW,72.0,187,McGinn Brock,25,Not Injured
+813,LW,73.0,205,McGinn Jamie,30,Injured
+814,LW,73.0,178,McGregor Ryan,20,Not Injured
+815,D,77.0,236,McIlrath Dylan,27,Not Injured
+816,G,74.0,206,McIntyre Zane,26,Not Injured
+817,D,73.0,194,McIsaac Jared,19,Not Injured
+818,C,72.0,194,McKegg Greg,27,Not Injured
+819,G,74.0,183,McKenna Mike,36,Not Injured
+820,LW,74.0,205,McKenzie Curtis,28,Not Injured
+821,LW,74.0,204,McLeod Cody,35,Injured
+822,C,73.0,183,McLeod Michael,21,Not Injured
+823,D,76.0,212,McNabb Brayden,28,Not Injured
+824,G,73.0,212,McNiven Michael,21,Not Injured
+825,D,76.0,210,McQuaid Adam,32,Injured
+826,LW,73.0,194,Megan Wade,28,Not Injured
+827,D,78.0,225,Megna Jaycob,26,Not Injured
+828,C,73.0,194,Megna Jayson,29,Not Injured
+829,RW,72.0,210,Meier Timo,22,Injured
+830,RW,70.0,194,Merkley Nicholas,22,Not Injured
+831,D,72.0,194,Mermis Dakota,25,Not Injured
+832,D,75.0,205,Merrill Jon,27,Not Injured
+833,LW,74.0,218,Mersch Michael,26,Not Injured
+834,G,75.0,192,Merzlikins Elvis,25,Not Injured
+835,D,69.0,183,Mete Victor,21,Injured
+836,D,76.0,230,Methot Marc,34,Injured
+837,D,75.0,210,Middleton Jacob,23,Not Injured
+838,D,76.0,185,Mikkola Niko,23,Not Injured
+839,LW,72.0,195,Milano Sonny,23,Not Injured
+840,LW,72.0,197,Miletic Sam,22,Not Injured
+841,D,73.0,196,Miller Colin,26,Injured
+842,C,73.0,218,Miller J.T.,26,Injured
+843,D,74.0,210,Miller Kevan,31,Injured
+844,G,74.0,168,Miller Ryan,38,Injured
+845,G,73.0,183,Milner Parker,28,Not Injured
+846,G,73.0,174,Miska Hunter,23,Not Injured
+847,C,71.0,186,Mitchell Torrey,34,Not Injured
+848,RW,73.0,196,Mitchell Zack,26,Not Injured
+849,C,72.0,209,Mittelstadt Casey,20,Injured
+850,D,76.0,225,Moldenhauer Scott,25,Not Injured
+851,C,71.0,171,Molino Griffen,25,Not Injured
+852,C,74.0,200,Monahan Sean,24,Not Injured
+853,G,75.0,195,Montembeault Samuel,22,Not Injured
+854,D,72.0,192,Montour Brandon,25,Not Injured
+855,G,74.0,201,Montoya Al,34,Not Injured
+856,C,72.0,192,Moore Dominic,38,Not Injured
+857,D,74.0,210,Moore John,28,Injured
+858,RW,68.0,168,Moore Ryan,22,Not Injured
+859,C,70.0,175,Moore Trevor,24,Not Injured
+860,C,70.0,179,Morand Antoine,20,Not Injured
+861,D,76.0,212,Moravcik Michal,24,Not Injured
+862,D,78.0,202,Morin Samuel,23,Not Injured
+863,G,75.0,170,Morrison Adam,28,Not Injured
+864,D,72.0,195,Morrissey Josh,24,Injured
+865,D,72.0,196,Morrow Joe,26,Not Injured
+866,C,70.0,192,Motte Tyler,24,Injured
+867,RW,73.0,194,Moy Tyler,23,Not Injured
+868,G,73.0,190,Mrazek Petr,27,Injured
+869,D,75.0,210,Mueller Mirco,24,Injured
+870,D,76.0,212,Murphy Connor,26,Injured
+871,D,71.0,185,Murphy Ryan,26,Not Injured
+872,D,70.0,181,Murphy Trevor,23,Not Injured
+873,G,76.0,178,Murray Matt,25,Injured
+874,D,73.0,205,Murray Ryan,25,Injured
+875,C,75.0,202,Musil Adam,22,Not Injured
+876,D,75.0,213,Muzzin Jake,30,Not Injured
+877,D,77.0,212,Myers Philippe,22,Not Injured
+878,D,80.0,229,Myers Tyler,29,Injured
+879,C,72.0,184,Namestnikov Vladislav,26,Injured
+880,RW,76.0,211,Nash Rick,35,Not Injured
+881,C,73.0,190,Nash Riley,30,Not Injured
+882,C,74.0,192,Nattinen Julius,22,Not Injured
+883,LW,75.0,212,Neal James,31,Injured
+884,C,74.0,179,Necas Martin,20,Not Injured
+885,G,72.0,198,Nedeljkovic Alex,23,Not Injured
+886,C,75.0,212,Nelson Brock,27,Not Injured
+887,D,73.0,183,Nelson Casey,26,Injured
+888,D,75.0,219,Nemeth Patrik,27,Injured
+889,D,70.0,187,Ness Aaron,29,Not Injured
+890,G,73.0,209,Neuvirth Michal,31,Injured
+891,RW,76.0,210,Nichushkin Valeri,24,Injured
+892,RW,74.0,218,Niederreiter Nino,26,Not Injured
+893,C,73.0,188,Nielsen Frans,35,Injured
+894,G,74.0,209,Niemi Antti,35,Not Injured
+895,LW,71.0,190,Nieto Matt,26,Injured
+896,C,75.0,210,Nieves Boo,25,Not Injured
+897,D,73.0,176,Niku Sami,22,Not Injured
+898,G,78.0,232,Nilsson Anders,29,Injured
+899,LW,70.0,180,Nilsson Jacob,25,Not Injured
+900,D,73.0,203,Niskanen Matt,32,Injured
+901,RW,73.0,205,Noesen Stefan,26,Injured
+902,D,74.0,191,Nogier Nelson,23,Not Injured
+903,C,75.0,219,Nolan Jordan,30,Not Injured
+904,C,73.0,194,Nordstrom Joakim,27,Injured
+905,D,71.0,192,Norell Robin,24,Not Injured
+906,LW,75.0,210,Nosek Tomas,26,Injured
+907,C,72.0,184,Nugent-Hopkins Ryan,26,Not Injured
+908,D,76.0,221,Nurse Darnell,24,Not Injured
+909,D,73.0,191,Nutivaara Markus,25,Not Injured
+910,D,75.0,190,Nyberg John,22,Not Injured
+911,LW,73.0,196,Nylander Alexander,21,Injured
+912,RW,72.0,191,Nylander William,23,Not Injured
+913,RW,71.0,184,Nyquist Gustav,29,Not Injured
+914,C,74.0,202,O'Brien Jim,30,Not Injured
+915,RW,71.0,180,O'Brien Zach,27,Not Injured
+916,RW,72.0,175,O'Connor Logan,22,Not Injured
+917,D,76.0,207,O'Gara Rob,25,Not Injured
+918,D,73.0,190,O'Neill Will,31,Not Injured
+919,C,70.0,185,O'Regan Danny,25,Not Injured
+920,C,71.0,192,O'Reilly Cal,32,Not Injured
+921,C,73.0,216,O'Reilly Ryan,28,Not Injured
+922,D,72.0,191,Oduya Johnny,37,Not Injured
+923,D,72.0,182,Oesterle Jordan,27,Injured
+924,RW,72.0,220,Okposo Kyle,31,Injured
+925,D,79.0,255,Oleksiak Jamie,26,Injured
+926,D,72.0,190,Oleksy Steve,33,Not Injured
+927,RW,74.0,209,Olivier Mathieu,22,Not Injured
+928,D,75.0,195,Olofsson Gustav,24,Not Injured
+929,RW,71.0,176,Olofsson Victor,23,Not Injured
+930,RW,71.0,168,Olson Kyle,20,Not Injured
+931,C,71.0,185,Olund Linus,22,Not Injured
+932,G,73.0,192,Opilka Luke,22,Not Injured
+933,D,71.0,212,Orlov Dmitry,27,Not Injured
+934,D,75.0,217,Orpik Brooks,38,Injured
+935,RW,71.0,195,Oshie T.J.,32,Injured
+936,D,73.0,185,Ouellet Xavier,25,Not Injured
+937,G,74.0,194,Ouellette Martin,27,Not Injured
+938,LW,75.0,235,Ovechkin Alex,33,Not Injured
+939,C,72.0,190,Overhardt Alex,22,Not Injured
+940,D,74.0,210,Ozhiganov Igor,26,Not Injured
+941,LW,75.0,206,Paajarvi Magnus,28,Injured
+942,LW,74.0,206,Pacioretty Max,30,Injured
+943,C,70.0,184,Pageau Jean-Gabriel,26,Injured
+944,LW,72.0,188,Palat Ondrej,28,Injured
+945,RW,71.0,185,Palmieri Kyle,28,Injured
+946,LW,67.0,179,Palmu Petrus,21,Not Injured
+947,LW,71.0,168,Panarin Artemi,27,Injured
+948,RW,73.0,208,Panik Richard,28,Not Injured
+949,C,73.0,198,Paquette Cedric,25,Injured
+950,D,78.0,230,Parayko Colton,26,Not Injured
+951,LW,71.0,193,Parise Zach,34,Injured
+952,G,73.0,185,Parsons Tyler,21,Not Injured
+953,G,75.0,215,Pasquale Edward,28,Not Injured
+954,RW,72.0,194,Pastrnak David,23,Injured
+955,D,75.0,223,Pateryn Greg,29,Not Injured
+956,C,74.0,198,Patrick Nolan,20,Injured
+957,LW,76.0,230,Paul Nicholas,24,Not Injured
+958,G,75.0,212,Pavelec Ondrej,31,Not Injured
+959,C,71.0,190,Pavelski Joe,34,Injured
+960,RW,71.0,195,Payne Robbie,26,Not Injured
+961,LW,73.0,201,Pearson Tanner,26,Not Injured
+962,C,69.0,182,Peca Matthew,26,Not Injured
+963,D,75.0,205,Peeke Andrew,21,Not Injured
+964,RW,72.0,170,Pekar Matej,19,Not Injured
+965,D,75.0,218,Pelech Adam,24,Not Injured
+966,RW,75.0,235,Peluso Anthony,30,Not Injured
+967,LW,75.0,211,Perlini Brendan,23,Injured
+968,LW,70.0,188,Perreault Mathieu,31,Not Injured
+969,LW,72.0,200,Perron David,31,Injured
+970,RW,72.0,166,Perron Francis,23,Not Injured
+971,RW,75.0,206,Perry Corey,34,Injured
+972,C,73.0,205,Persson Carl,24,Not Injured
+973,D,75.0,206,Pesce Brett,24,Injured
+974,LW,69.0,179,Petan Nic,24,Not Injured
+975,G,73.0,182,Petersen Cal,24,Not Injured
+976,D,76.0,216,Petrovic Alex,27,Injured
+977,D,75.0,197,Petry Jeff,31,Not Injured
+978,C,74.0,176,Pettersson Elias,20,Injured
+979,C,74.0,185,Pettersson Emil,25,Not Injured
+980,D,75.0,177,Pettersson Marcus,23,Not Injured
+981,D,76.0,222,Phaneuf Dion,34,Injured
+982,LW,71.0,185,Phelan James,22,Not Injured
+983,C,67.0,161,Phillips Matthew,21,Not Injured
+984,G,73.0,175,Phinney Colton,26,Not Injured
+985,RW,72.0,190,Piccinich J.J.,23,Not Injured
+986,G,73.0,207,Pickard Calvin,27,Not Injured
+987,LW,71.0,200,Pietila Blake,26,Not Injured
+988,D,75.0,210,Pietrangelo Alex,29,Injured
+989,D,71.0,191,Pilut Lawrence,23,Injured
+990,D,72.0,186,Pionk Neal,23,Injured
+991,C,72.0,186,Pirri Brandon,28,Injured
+992,C,69.0,194,Pitlick Rem,22,Not Injured
+993,C,74.0,200,Pitlick Tyler,27,Injured
+994,C,71.0,193,Plekanec Tomas,36,Injured
+995,LW,70.0,187,Plouffe Derian,24,Not Injured
+996,LW,74.0,185,Poehling Ryan,20,Not Injured
+997,LW,73.0,198,Poganski Austin,23,Not Injured
+998,C,70.0,166,Point Brayden,23,Injured
+999,D,74.0,240,Polak Roman,33,Not Injured
+1000,RW,72.0,180,Pominville Jason,36,Not Injured
+1001,LW,74.0,197,Pooley Scott,25,Not Injured
+1002,D,75.0,210,Poolman Tucker,26,Not Injured
+1003,LW,72.0,190,Porter Kevin,33,Not Injured
+1004,C,74.0,195,Pospisil Kristian,23,Not Injured
+1005,D,75.0,195,Postma Paul,30,Not Injured
+1006,LW,75.0,200,Pouliot Benoit,32,Not Injured
+1007,D,72.0,196,Pouliot Derrick,25,Not Injured
+1008,G,75.0,215,Price Carey,31,Injured
+1009,LW,71.0,193,Prince Shane,26,Not Injured
+1010,D,74.0,201,Prosser Nate,33,Not Injured
+1011,D,75.0,215,Prout Dalton,29,Not Injured
+1012,D,73.0,201,Provorov Ivan,22,Not Injured
+1013,D,71.0,180,Prow Ethan,26,Not Injured
+1014,RW,74.0,191,Pu Cliff,21,Not Injured
+1015,LW,74.0,168,Pucek Roman,19,Not Injured
+1016,LW,74.0,204,Puempel Matthew,26,Not Injured
+1017,RW,76.0,201,Puljujarvi Jesse,21,Injured
+1018,D,74.0,217,Pulock Ryan,24,Not Injured
+1019,C,71.0,185,Pyatt Tom,32,Not Injured
+1020,D,74.0,192,Pyrochta Filip,23,Not Injured
+1021,D,73.0,200,Pysyk Mark,27,Injured
+1022,C,73.0,195,Quenneville John,23,Injured
+1023,G,73.0,216,Quick Jonathan,33,Injured
+1024,C,72.0,203,Quine Alan,26,Not Injured
+1025,G,72.0,195,Raanta Antti,30,Injured
+1026,G,73.0,186,Raaymakers Joseph,21,Not Injured
+1027,RW,74.0,198,Raddysh Taylor,21,Not Injured
+1028,LW,76.0,200,Radil Lukas,28,Injured
+1029,LW,73.0,205,Radulov Alexander,33,Injured
+1030,D,73.0,191,Rafferty Brogan,24,Not Injured
+1031,LW,72.0,200,Raffl Michael,30,Injured
+1032,C,73.0,202,Rakell Rickard,26,Injured
+1033,RW,73.0,198,Randell Tyler,28,Not Injured
+1034,RW,76.0,215,Rantanen Mikko,22,Not Injured
+1035,G,75.0,176,Rask Tuukka,32,Injured
+1036,C,74.0,200,Rask Victor,26,Injured
+1037,C,78.0,221,Rasmussen Michael,20,Injured
+1038,RW,72.0,183,Rattie Ty,26,Injured
+1039,C,68.0,178,Rau Kyle,26,Not Injured
+1040,RW,70.0,185,Read Matt,33,Not Injured
+1041,RW,73.0,225,Reaves Ryan,32,Not Injured
+1042,G,73.0,200,Redmond Angus,23,Not Injured
+1043,D,74.0,212,Redmond Zach,30,Not Injured
+1044,D,74.0,201,Regula Alec,18,Not Injured
+1045,D,74.0,193,Reilly Mike,25,Not Injured
+1046,G,74.0,220,Reimer James,31,Injured
+1047,D,76.0,212,Reinhart Griffin,25,Not Injured
+1048,RW,73.0,192,Reinhart Sam,23,Not Injured
+1049,D,71.0,181,Reinke Mitch,23,Not Injured
+1050,RW,70.0,165,Rempal Sheldon,23,Not Injured
+1051,D,74.0,205,Renouf Dan,25,Not Injured
+1052,C,70.0,176,Richard Anthony,22,Not Injured
+1053,C,72.0,190,Richardson Brad,34,Injured
+1054,RW,71.0,186,Rieder Tobias,26,Injured
+1055,D,73.0,221,Rielly Morgan,25,Not Injured
+1056,D,72.0,189,Riikola Juuso,25,Not Injured
+1057,LW,70.0,192,Rinaldo Zac,29,Injured
+1058,G,77.0,217,Rinne Pekka,36,Not Injured
+1059,D,76.0,218,Ristolainen Rasmus,24,Not Injured
+1060,RW,76.0,220,Ritchie Brett,26,Injured
+1061,LW,74.0,234,Ritchie Nick,23,Injured
+1062,G,75.0,206,Rittich David,26,Injured
+1063,RW,77.0,235,Robinson Buddy,27,Not Injured
+1064,LW,74.0,201,Robinson Eric,24,Not Injured
+1065,G,74.0,176,Robson Mat,23,Not Injured
+1066,G,74.0,169,Robson Matt,23,Not Injured
+1067,RW,74.0,189,Rodewald Jack,25,Injured
+1068,RW,71.0,185,Rodin Anton,28,Not Injured
+1069,LW,71.0,182,Rodrigues Evan,25,Injured
+1070,C,74.0,190,Rooney Kevin,26,Not Injured
+1071,D,73.0,195,Rosen Calle,25,Not Injured
+1072,C,73.0,182,Roslovic Jack,22,Not Injured
+1073,LW,71.0,199,Roussel Antoine,29,Injured
+1074,RW,74.0,206,Rowney Carter,30,Injured
+1075,LW,69.0,170,Roy Kevin,26,Not Injured
+1076,D,73.0,200,Roy Matt,24,Not Injured
+1077,C,76.0,209,Roy Nicolas,22,Not Injured
+1078,LW,72.0,189,Roykas Marthinsen Kristian,19,Not Injured
+1079,D,76.0,215,Rubins Kristians,21,Not Injured
+1080,D,71.0,191,Ruhwedel Chad,29,Injured
+1081,D,70.0,170,Russell Kris,32,Injured
+1082,RW,73.0,205,Russell Patrick,26,Not Injured
+1083,RW,71.0,192,Rust Bryan,27,Injured
+1084,D,75.0,200,Rutta Jan,28,Not Injured
+1085,C,76.0,209,Ruzicka Adam,20,Not Injured
+1086,RW,74.0,209,Ryan Bobby,32,Injured
+1087,C,70.0,185,Ryan Derek,32,Not Injured
+1088,D,71.0,185,Ryan Joakim,26,Not Injured
+1089,LW,73.0,205,Rychel Kerby,24,Not Injured
+1090,C,72.0,187,Rymsha Drake,20,Not Injured
+1091,LW,73.0,206,Saad Brandon,26,Injured
+1092,C,71.0,200,Saarela Aleksi,22,Not Injured
+1093,RW,71.0,203,Salomaki Miikka,26,Injured
+1094,G,74.0,205,Samsonov Ilya,22,Not Injured
+1095,LW,76.0,207,Sanford Zach,24,Injured
+1096,D,75.0,181,Sanheim Travis,23,Not Injured
+1097,D,74.0,205,Santini Steve,24,Not Injured
+1098,G,71.0,180,Saros Juuse,24,Not Injured
+1099,G,73.0,205,Sateri Harri,29,Not Injured
+1100,D,72.0,195,Sautner Ashton,25,Not Injured
+1101,D,74.0,227,Savard David,28,Not Injured
+1102,D,75.0,204,Sbisa Luca,29,Not Injured
+1103,D,75.0,208,Scandella Marco,29,Injured
+1104,D,73.0,180,Scarlett Reece,26,Not Injured
+1105,C,72.0,192,Sceviour Colton,30,Injured
+1106,C,74.0,204,Schaller Tim,28,Not Injured
+1107,C,75.0,207,Scheifele Mark,26,Not Injured
+1108,RW,73.0,200,Schenn Brayden,27,Injured
+1109,D,74.0,229,Schenn Luke,29,Not Injured
+1110,RW,73.0,192,Scherbak Nikita,23,Injured
+1111,D,74.0,196,Schilling Cameron,30,Not Injured
+1112,D,72.0,190,Schlemko David,32,Injured
+1113,D,74.0,190,Schmaltz Jordan,25,Not Injured
+1114,C,72.0,177,Schmaltz Nick,23,Injured
+1115,G,76.0,168,Schmid Akira,19,Not Injured
+1116,D,73.0,194,Schmidt Nate,27,Not Injured
+1117,G,75.0,200,Schneider Cory,33,Injured
+1118,C,69.0,170,Schroeder Jordan,28,Not Injured
+1119,D,73.0,205,Schuldt Jimmy,24,Not Injured
+1120,D,74.0,193,Schultz Justin,28,Injured
+1121,LW,70.0,190,Schwartz Jaden,27,Injured
+1122,G,76.0,184,Scott Ian,20,Not Injured
+1123,D,75.0,220,Seabrook Brent,34,Injured
+1124,C,72.0,205,Sedlak Lukas,26,Not Injured
+1125,D,74.0,198,Seeler Nick,26,Injured
+1126,C,73.0,200,Seguin Tyler,27,Not Injured
+1127,D,72.0,199,Seidenberg Dennis,37,Not Injured
+1128,D,72.0,200,Sekera Andrej,33,Injured
+1129,LW,69.0,156,Seney Brett,23,Not Injured
+1130,RW,73.0,192,Senyshyn Zach,22,Not Injured
+1131,D,75.0,215,Sergachev Mikhail,21,Not Injured
+1132,D,74.0,205,Severson Damon,24,Not Injured
+1133,D,72.0,206,Shattenkirk Kevin,30,Injured
+1134,RW,71.0,182,Shaw Andrew,27,Injured
+1135,RW,75.0,208,Shaw Logan,26,Not Injured
+1136,C,75.0,214,Sheahan Riley,27,Not Injured
+1137,LW,68.0,175,Sheary Conor,27,Injured
+1138,RW,72.0,194,Sherwood Kiefer,24,Not Injured
+1139,RW,73.0,202,Sherwood Kole,22,Not Injured
+1140,C,73.0,205,Shore Devin,24,Injured
+1141,C,73.0,195,Shore Nick,26,Not Injured
+1142,D,75.0,206,Siegenthaler Jonas,22,Not Injured
+1143,D,75.0,210,Siemens Duncan,25,Not Injured
+1144,C,71.0,158,Sikura Dylan,24,Not Injured
+1145,RW,73.0,204,Silfverberg Jakob,28,Injured
+1146,D,71.0,200,Simek Radim,26,Not Injured
+1147,RW,74.0,185,Simmonds Wayne,30,Not Injured
+1148,C,71.0,190,Simon Dominik,24,Injured
+1149,D,74.0,205,Simpson Dillon,26,Not Injured
+1150,C,73.0,200,Sissons Colton,25,Injured
+1151,LW,71.0,200,Skinner Jeff,27,Not Injured
+1152,D,75.0,214,Skjei Brady,25,Injured
+1153,D,71.0,181,Sklenicka David,22,Not Injured
+1154,D,75.0,207,Slavin Jaccob,25,Not Injured
+1155,RW,74.0,221,Slepyshev Anton,25,Not Injured
+1156,D,74.0,195,Smith Brendan,30,Injured
+1157,LW,71.0,181,Smith C.J.,24,Not Injured
+1158,RW,73.0,208,Smith Craig,29,Injured
+1159,C,70.0,190,Smith Gemel,25,Not Injured
+1160,G,72.0,178,Smith Jeremy,30,Not Injured
+1161,G,77.0,220,Smith Mike,37,Not Injured
+1162,RW,72.0,185,Smith Reilly,28,Not Injured
+1163,LW,74.0,208,Smith Zack,31,Injured
+1164,RW,72.0,223,Smith-Pelly Devante,27,Not Injured
+1165,LW,70.0,184,Sobotka Vladimir,32,Injured
+1166,C,75.0,210,Soderberg Carl,33,Not Injured
+1167,C,73.0,181,Somppi Otto,21,Not Injured
+1168,LW,71.0,175,Sorensen Marcus,27,Injured
+1169,RW,71.0,185,Soshnikov Nikita,25,Injured
+1170,D,78.0,243,Sosunov Oleg,21,Not Injured
+1171,D,77.0,208,Soucy Carson,24,Not Injured
+1172,C,71.0,172,Soy Tyler,22,Not Injured
+1173,G,75.0,201,Sparks Garret,26,Injured
+1174,D,74.0,203,Spencer Matt,22,Not Injured
+1175,C,75.0,215,Spezza Jason,36,Not Injured
+1176,C,71.0,191,Spooner Ryan,27,Injured
+1177,RW,72.0,180,Sprong Daniel,22,Not Injured
+1178,D,76.0,205,Sproul Ryan,26,Not Injured
+1179,D,69.0,167,Spurgeon Jared,29,Not Injured
+1180,C,76.0,207,Staal Eric,34,Not Injured
+1181,C,76.0,220,Staal Jordan,30,Injured
+1182,D,76.0,213,Staal Marc,32,Injured
+1183,RW,74.0,215,Stafford Drew,33,Injured
+1184,C,73.0,195,Stajan Matt,35,Not Injured
+1185,G,72.0,198,Stalock Alex,31,Not Injured
+1186,C,73.0,194,Stamkos Steven,29,Not Injured
+1187,D,79.0,231,Stanley Logan,21,Not Injured
+1188,G,77.0,195,Starrett Shane,24,Not Injured
+1189,C,72.0,193,Stastny Paul,33,Injured
+1190,D,70.0,186,Stecher Troy,25,Injured
+1191,C,72.0,180,Steel Sam,21,Not Injured
+1192,LW,72.0,211,Steen Alexander,35,Not Injured
+1193,RW,71.0,195,Stempniak Lee,36,Not Injured
+1194,C,76.0,210,Stenlund Kevin,22,Not Injured
+1195,C,72.0,196,Stepan Derek,29,Injured
+1196,D,74.0,199,Stephens Devante,22,Not Injured
+1197,C,72.0,203,Stephenson Chandler,25,Not Injured
+1198,C,74.0,204,Stevens John,25,Not Injured
+1199,RW,74.0,242,Stewart Chris,31,Not Injured
+1200,D,74.0,195,Stillman Riley,21,Not Injured
+1201,G,78.0,210,Stolarz Anthony,25,Injured
+1202,RW,76.0,219,Stone Mark,27,Not Injured
+1203,D,75.0,210,Stone Michael,29,Injured
+1204,D,76.0,216,Stoner Clayton,34,Not Injured
+1205,C,72.0,177,Stotts Riley,19,Not Injured
+1206,D,71.0,190,Stralman Anton,32,Injured
+1207,C,71.0,200,Street Ben,32,Not Injured
+1208,C,75.0,200,Strome Dylan,22,Not Injured
+1209,C,73.0,194,Strome Ryan,25,Not Injured
+1210,RW,72.0,165,Studenic Marian,20,Not Injured
+1211,C,73.0,171,Studnicka Jack,20,Not Injured
+1212,G,74.0,200,Subban Malcolm,25,Not Injured
+1213,D,72.0,210,Subban P.K.,30,Injured
+1214,D,74.0,207,Sulak Libor,25,Not Injured
+1215,C,75.0,209,Sundqvist Oskar,25,Injured
+1216,C,72.0,180,Suomela Antti,25,Not Injured
+1217,D,79.0,220,Sustr Andrej,28,Not Injured
+1218,D,74.0,208,Suter Ryan,34,Not Injured
+1219,C,75.0,190,Sutter Brandon,30,Injured
+1220,RW,74.0,195,Svechnikov Andrei,19,Not Injured
+1221,LW,74.0,199,Svechnikov Evgeny,22,Not Injured
+1222,G,75.0,192,Svoboda Miroslav,24,Not Injured
+1223,RW,71.0,200,Szwarz Jordan,28,Not Injured
+1224,G,76.0,196,Talbot Cam,32,Not Injured
+1225,LW,70.0,176,Tammela Jonne,21,Not Injured
+1226,LW,72.0,180,Tanev Brandon,27,Injured
+1227,D,74.0,197,Tanev Christopher,29,Not Injured
+1228,LW,76.0,221,Tangradi Eric,30,Not Injured
+1229,D,70.0,182,Taormina Matt,32,Not Injured
+1230,RW,72.0,225,Tarasenko Vladimir,27,Injured
+1231,LW,70.0,182,Tatar Tomas,28,Not Injured
+1232,C,73.0,209,Tavares John,28,Not Injured
+1233,D,71.0,181,Taylor  Jeff,25,Not Injured
+1234,D,74.0,205,Tennyson Matt,29,Not Injured
+1235,LW,71.0,191,Teravainen Teuvo,24,Not Injured
+1236,LW,70.0,191,Terry Chris,30,Not Injured
+1237,RW,73.0,175,Terry Troy,21,Injured
+1238,D,72.0,180,Teves Josh,24,Not Injured
+1239,C,72.0,174,Texier Alexandre,19,Not Injured
+1240,D,74.0,195,Theodore Shea,23,Not Injured
+1241,D,73.0,190,Thomas Ben,23,Not Injured
+1242,C,72.0,188,Thomas Robert,20,Injured
+1243,C,73.0,207,Thompson Nate,34,Not Injured
+1244,RW,77.0,205,Thompson Tage,21,Not Injured
+1245,LW,75.0,215,Thomson Ben,26,Not Injured
+1246,RW,75.0,235,Thorburn Chris,36,Not Injured
+1247,C,76.0,220,Thornton Joe,40,Injured
+1248,D,73.0,200,Thrower Josh,23,Not Injured
+1249,C,73.0,195,Tierney Chris,25,Not Injured
+1250,D,74.0,184,Timmins Conor,20,Not Injured
+1251,D,78.0,229,Tinordi Jarred,27,Not Injured
+1252,LW,75.0,196,Tkachuk Brady,19,Injured
+1253,LW,74.0,202,Tkachuk Matthew,21,Not Injured
+1254,D,73.0,191,Toews Devon,25,Not Injured
+1255,C,74.0,201,Toews Jonathan,31,Not Injured
+1256,RW,72.0,197,Toffoli Tyler,27,Not Injured
+1257,G,72.0,204,Tokarski Dustin,29,Not Injured
+1258,RW,70.0,191,Tolvanen Eeli,20,Not Injured
+1259,C,74.0,200,Toninato Dominic,25,Not Injured
+1260,RW,75.0,187,Toropchenko Alexey,20,Not Injured
+1261,C,74.0,201,Trenin Yakov,22,Not Injured
+1262,C,70.0,186,Trocheck Vincent,25,Injured
+1263,RW,72.0,185,Tropp Corey,29,Not Injured
+1264,D,75.0,217,Trotman Zach,28,Not Injured
+1265,D,75.0,202,Trouba Jacob,25,Not Injured
+1266,C,77.0,200,True Alexander,21,Not Injured
+1267,RW,76.0,222,Tuch Alex,23,Not Injured
+1268,C,74.0,196,Turgeon Dominic,23,Not Injured
+1269,C,73.0,190,Turris Kyle,29,Injured
+1270,D,75.0,192,Tyszka Jarret,20,Not Injured
+1271,G,76.0,221,Ullmark Linus,25,Not Injured
+1272,C,74.0,194,Ullstrom David,30,Not Injured
+1273,LW,72.0,200,Upshall Scottie,35,Not Injured
+1274,D,73.0,185,Vaakanainen Urho,20,Injured
+1275,D,77.0,210,Vala Ondrej,21,Not Injured
+1276,D,74.0,188,Valiev Rinat,24,Not Injured
+1277,D,74.0,212,Valimaki Juuso,20,Injured
+1278,LW,75.0,217,van Riemsdyk James,30,Injured
+1279,D,74.0,192,van Riemsdyk Trevor,27,Not Injured
+1280,G,73.0,190,Vanecek Vitek,23,Not Injured
+1281,LW,74.0,214,Vanek Thomas,35,Injured
+1282,G,74.0,205,Varlamov Semyon,31,Injured
+1283,C,70.0,183,Varone Philip,28,Not Injured
+1284,G,75.0,207,Vasilevskiy Andrei,24,Injured
+1285,D,70.0,185,Vatanen Sami,28,Injured
+1286,C,69.0,201,Vatrano Frank,25,Not Injured
+1287,C,73.0,194,Veleno Joe,19,Not Injured
+1288,C,70.0,183,Verbeek Hayden,21,Not Injured
+1289,C,73.0,197,Vermette Antoine,36,Not Injured
+1290,RW,72.0,180,Véronneau Max,23,Not Injured
+1291,LW,71.0,176,Versteeg Kris,33,Not Injured
+1292,RW,75.0,207,Vesalainen Kristian,20,Not Injured
+1293,LW,75.0,199,Vesey Jimmy,26,Not Injured
+1294,C,75.0,205,Vilardi Gabriel,19,Not Injured
+1295,RW,73.0,226,Virtanen Jake,22,Injured
+1296,G,77.0,185,Vladar Daniel,21,Not Injured
+1297,D,73.0,205,Vlasic Marc-Edouard,32,Injured
+1298,RW,74.0,214,Voracek Jakub,29,Injured
+1299,C,74.0,206,Vorobyev Mikhail,22,Not Injured
+1300,LW,72.0,197,Vrana Jakub,23,Not Injured
+1301,LW,73.0,185,Wagner Austin,22,Injured
+1302,RW,72.0,198,Wagner Chris,28,Injured
+1303,D,71.0,161,Walcott Daniel,25,Not Injured
+1304,D,74.0,190,Walford Scott,20,Not Injured
+1305,C,69.0,186,Walker Nathan,25,Not Injured
+1306,D,71.0,196,Walker Sean,24,Injured
+1307,C,72.0,178,Wallmark Lucas,23,Not Injured
+1308,D,73.0,170,Walman Jake,23,Not Injured
+1309,G,73.0,194,Ward Cam,35,Injured
+1310,RW,73.0,225,Ward Joel,38,Not Injured
+1311,D,69.0,170,Warsofsky David,29,Not Injured
+1312,LW,76.0,204,Watson Austin,27,Not Injured
+1313,C,70.0,179,Weal Jordan,27,Not Injured
+1314,D,75.0,198,Webb Reilly,20,Not Injured
+1315,D,76.0,229,Weber Shea,33,Injured
+1316,D,71.0,200,Weber Yannick,30,Injured
+1317,G,74.0,195,Wedgewood Scott,26,Not Injured
+1318,D,72.0,200,Weegar MacKenzie,25,Injured
+1319,RW,74.0,206,Weise Dale,30,Not Injured
+1320,D,73.0,201,Welinski Andy,26,Not Injured
+1321,C,74.0,196,Wennberg Alexander,24,Not Injured
+1322,D,74.0,209,Werenski Zachary,21,Not Injured
+1323,G,76.0,198,Westerholm Niclas,21,Not Injured
+1324,G,70.0,190,Wexler Ben,24,Not Injured
+1325,RW,77.0,225,Wheeler Blake,32,Not Injured
+1326,C,72.0,183,White Colin,22,Injured
+1327,D,73.0,185,White Colton,22,Not Injured
+1328,D,70.0,180,Wideman Chris,29,Injured
+1329,G,72.0,189,Wilcox Adam,26,Not Injured
+1330,RW,73.0,184,Williams Justin,37,Not Injured
+1331,C,73.0,221,Wilson Colin,29,Injured
+1332,LW,74.0,199,Wilson Garrett,28,Not Injured
+1333,RW,71.0,183,Wilson Scott,27,Injured
+1334,RW,76.0,218,Wilson Tom,25,Not Injured
+1335,C,72.0,200,Wingels Tommy,31,Not Injured
+1336,LW,74.0,210,Winnik Daniel,34,Not Injured
+1337,D,74.0,210,Witkowski Luke,29,Not Injured
+1338,D,74.0,185,Wolanin Christian,24,Not Injured
+1339,G,75.0,196,Woll Joseph,20,Not Injured
+1340,LW,74.0,195,Wood Miles,23,Injured
+1341,D,74.0,207,Wotherspoon Tyler,26,Not Injured
+1342,D,72.0,190,Yakovlev Egor,27,Injured
+1343,D,72.0,190,Yakovlev Yegor,27,Not Injured
+1344,RW,71.0,195,Yakupov Nail,25,Not Injured
+1345,RW,68.0,153,Yamamoto Kailer,20,Injured
+1346,LW,73.0,184,Yan Dennis,22,Not Injured
+1347,D,73.0,191,Yandle Keith,32,Not Injured
+1348,C,72.0,185,Zablocki Lane,20,Not Injured
+1349,C,75.0,210,Zacha Pavel,22,Injured
+1350,LW,72.0,196,Zadina Filip,19,Not Injured
+1351,D,77.0,230,Zadorov Nikita,24,Injured
+1352,D,74.0,193,Zaitsev Nikita,27,Not Injured
+1353,C,74.0,185,Zajac Travis,34,Injured
+1354,D,72.0,200,Zboril Jakub,22,Not Injured
+1355,C,72.0,197,Zetterberg Henrik,38,Injured
+1356,C,74.0,213,Zibanejad Mika,26,Not Injured
+1357,RW,68.0,184,Zuccarello Mats,31,Injured
+1358,LW,71.0,183,Zucker Jason,27,Not Injured
+1359,C,69.0,175,Zummack Eli,19,Not Injured
