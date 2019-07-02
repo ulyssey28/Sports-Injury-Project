@@ -77,7 +77,7 @@ def knn_model(X_tn, X_tt, y_tn, y_tt, k_value=41):
     # Note: We only use odd numbers because we don't want any ties
     train_scores = []
     test_scores = []
-    for k in range(1, 50, 2):
+    for k in range(1, 60, 2):
         knn = KNeighborsClassifier(n_neighbors=k)
         knn.fit(X_train_scaled, y_train)
         train_score = knn.score(X_train_scaled, y_train)
@@ -87,8 +87,8 @@ def knn_model(X_tn, X_tt, y_tn, y_tt, k_value=41):
         print(f"k: {k}, Train/Test Score: {train_score:.3f}/{test_score:.3f}")
 
 
-    plt.plot(range(1, 50, 2), train_scores, marker='o')
-    plt.plot(range(1, 50, 2), test_scores, marker="x")
+    plt.plot(range(1, 60, 2), train_scores, marker='o')
+    plt.plot(range(1, 60, 2), test_scores, marker="x")
     plt.xlabel("k neighbors")
     plt.ylabel("Testing accuracy Score")
     plt.show()
