@@ -43,11 +43,16 @@ def logistic_model(X_tn, X_tt, y_tn, y_tt):
     
     print(f"Training Data Score: {classifier.score(X_train, y_train)}")
     print(f"Testing Data Score: {classifier.score(X_test, y_test)}")
+    train_score = classifier.score(X_train, y_train)
+    test_score = classifier.score(X_test, y_test)
+    
+    return train_score, test_score 
     
     
     
     
-def knn_model(X_tn, X_tt, y_tn, y_tt):
+    
+def knn_model(X_tn, X_tt, y_tn, y_tt, k_value=41):
     
     X_train = X_tn 
     X_test = X_tt
@@ -95,13 +100,13 @@ def knn_model(X_tn, X_tt, y_tn, y_tt):
 
     k = int( math.sqrt(len(X_train)))
 
-    knn = KNeighborsClassifier(n_neighbors=41)
+    knn = KNeighborsClassifier(n_neighbors= k_value)
     knn.fit(X_train_scaled, y_train)
     train_score = knn.score(X_train_scaled, y_train)
     test_score = knn.score(X_test_scaled, y_test)
     train_scores.append(train_score)
     test_scores.append(test_score)
-    print(f"k: {k}, Train/Test Score: {train_score:.3f}/{test_score:.3f}")
+    print(f"k: {k_value}, Train/Test Score: {train_score:.3f}/{test_score:.3f}")
     
     y_pred = knn.predict(X_test)
     
@@ -118,5 +123,36 @@ def knn_model(X_tn, X_tt, y_tn, y_tt):
     
     print('Accuracy Score: ')
     print(accuracy_score(y_test, y_pred))
+    
+    
+def random_for(X_tn, X_tt, y_tn, y_tt, df):
+    import pandas as pd
+    X_train = X_tn 
+    X_test = X_tt
+    y_train = y_tn
+    y_test = y_tt 
+    
+    from sklearn.model_selection import KFold, cross_val_score
+    from sklearn.model_selection import train_test_split, GridSearchCV
+    from sklearn.ensemble import RandomForestClassifier
+    
+    clf = RandomForestClassifier(n_jobs=2, random_state=0)
+    clf.fit(X_train, y_train.ravel())
+    
+    preds=clf.predict(X_test)
+    print(f'Number of Predictions: {len(preds)}')
+    
+    print('-------------------------------------')
+    
+    #Print summary information from running prediction on X_test set
+    newdf = pd.DataFrame(X_test)
+    newdf['predicted']=preds
+    
+    odf=df.loc[newdf.index]
+    odf['predicted']=preds
+    print("Predicted as injured:")
+    print(newdf.loc[newdf.predicted==1].shape)
+    print("Predicted as not injured")
+    print(newdf.loc[newdf.predicted==0].shape)
     
     
